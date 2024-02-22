@@ -1,0 +1,1278 @@
+{
+    "DataOfFood": [
+        {
+            "ID": 34,
+            "Name": "Hủ tiếu",
+            "Information": "Hủ tiếu là một chế phẩm dạng sợi tương tự như sợi bún, phở được làm từ gạo có nguồn gốc từ người Triều Châu, Trung Quốc. Ở Việt Nam, hủ tiếu phổ biến ở miền Nam hơn ở khu vực miền Bắc.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của hủ tiếu phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một tô hủ tiếu có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Ước tính hàm lượng dinh dưỡng trong một tô hủ tiếu sẽ chứa:",
+                "Nutrition": [
+                    "Calo: 650Kcal",
+                    "Protein: 34.8g",
+                    "Lipid: 10.7g",
+                    "Fiber: 1g",
+                    "Vitamins and minerals: Vitamin A, Vitamin C, Glucid, Canxi, Cholesterol"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Nguyên liệu chính của món hủ tiếu là bánh hủ tiếu, và nước dùng chính là với thịt băm nhỏ, lòng heo nấu cùng. Sau đó trụng sơ bánh hủ tiếu với nước dùng, rồi cho các nguyên liệu phụ vào bao gồm giá đỗ, hẹ, thịt băm vào. Có thể ăn được với thịt bò viên và tương ớt, tương đen.",
+                "Time": "4 giờ",
+                "Cooking": [
+                    "Step 1. Chuẩn bị và cắt các nguyên liệu như thịt, tôm, sò điệp và rau sống theo kích thước mong muốn.",
+                    "Step 2. Nấu nước dùng từ xương lợn, xương gà, tôm và các gia vị khác để tạo ra hương vị ngon và thơm.",
+                    "Step 3. Nấu sợi hủ tiếu theo hướng dẫn trên bao bì. Thường thì chỉ cần đun sôi nước và cho sợi hủ tiếu vào nấu chín.",
+                    "Step 4. Chế biến thịt, tôm, sò điệp và các nguyên liệu khác trong nước dùng đã nấu sẵn. Thêm gia vị như muối, tiêu và đường theo khẩu vị cá nhân.",
+                    "Step 5. Đặt sợi hủ tiếu đã nấu chín vào từng bát. Xếp thịt, tôm, sò điệp và rau sống lên trên sợi hủ tiếu.",
+                    "Step 6. Đổ nước dùng nóng vừa sôi vào từng bát, thêm gia vị như nước mắm, tỏi, ớt và chanh (nếu muốn). Thưởng thức hủ tiếu nóng."
+                ]
+            }
+        },
+        {
+            "ID": 32,
+            "Name": "Gỏi cuốn",
+            "Information": "Gỏi cuốn, hay còn được gọi là nem cuốn, là một món ăn truyền thống Việt Nam. Đây là một món ăn nhẹ, tươi ngon, và phổ biến không chỉ trong ẩm thực Việt mà còn trên thế giới. Gỏi cuốn thường được chế biến từ những nguyên liệu tươi ngon, đóng gói trong lớp vỏ bên ngoài là tờ bánh tráng mỏng.",
+            "NutritionInfo": {
+                "Info": "Thông thường thì trong gỏi cuốn thường có những thành phần nguyên liệu như là bánh tráng, thịt nạc, tôm, rau sống các loại cuối cùng là bún. Kết hợp gỏi cuốn với nước chấm đã pha chế để tăng hương vị đậm đà cho món ngon này. Theo nghiên cứu cho thấy, giá trị dinh dưỡng có trong gỏi cuốn sẽ là:",
+                "Nutrition": [
+                    "Calo: 65Kcal",
+                    "Protein: 3.4g",
+                    "Lipid: 11.9g",
+                    "Vitamins and minerals: Vitamin A, Gluxit, Fe"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một công thức cơ bản cho gỏi cuốn tôm thịt bao gồm các nguyên liệu sau: Bánh tráng, thịt, tôm, bún, rau sống, nước mắn, đường, giấm gạo, nước sôi, tỏi, ớt. Lưu ý rằng bạn có thể điều chỉnh nguyên liệu và tỷ lệ theo khẩu vị cá nhân của mình.",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Chuẩn bị tất cả các nguyên liệu, nước mắm pha chế và bánh tráng.",
+                    "Step 2. Trộn tất cả các thành phần nước mắm pha chế, đảm bảo hòa quện tất cả các thành phần.",
+                    "Step 3. Đặt các nguyên liệu như thịt, tôm, bún, rau sống và bánh tráng lên bàn làm việc.",
+                    "Step 4. Đặt một tờ bánh tráng lên bàn, xếp các nguyên liệu như thịt, tôm, bún, và rau sống ở giữa bánh tráng. Cuốn chặt từ phía dưới lên trên và gập hai bên vào giữa.",
+                    "Step 5. Gỏi cuốn thường được ăn kèm với nước mắm pha chế. Đưa gỏi cuốn lên miệng và thưởng thức."
+                ]
+            }
+        },
+        {
+            "ID": 8,
+            "Name": "Bánh dày",
+            "Information": "Bánh dày là một món ăn truyền thống của người Việt Nam, thường được làm trong dịp Tết Nguyên Đán. Bánh dày còn được gọi là bánh giầy tùy theo khu vực. Món ăn này có nguồn gốc từ vùng Bắc Bộ của Việt Nam và là một phần quan trọng của các bữa tiệc và nghi thức lễ hội.",
+            "NutritionInfo": {
+                "Info": "Bánh dày được làm chủ yếu từ gạo nếp giã nhuyễn kết hợp với nhân đậu xanh hoặc giò lụa. Theo đó, trong 100g sẽ cung cấp những giá trị dinh dưỡng chính qua bảng sau:",
+                "Nutrition": [
+                    "Calo: 280Kcal",
+                    "Protein: 12.4g",
+                    "Lipid: 2.8g",
+                    "Fiber: 0.4g",
+                    "Vitamins and minerals: Canxi, Fe"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để tạo ra bánh dày giò hấp ngon tại nhà, bạn chỉ cần tiến hành chuẩn bị các nguyên liệu như sau: Bột gạo, bột nếp, nước ấm, dầu ăn, giò lụa, muối, đường, tiêu, tỏi.",
+                "Time": "2 giờ",
+                "Cooking": [
+                    "Step 1. Phần quan trọng nhất của bánh dày đó là phần bánh bên ngoài, khi làm bạn cần cho vào bột một lượng nước vừa đủ và trộn đều tay để bánh dẻo, mịn kết thành khối không tách rời.",
+                    "Step 2. Trộn vào 1 muỗng canh dầu ăn và tiếp tục nhồi cho đến khi bột không dính tay. Đặt bột trong ni lông, để nghỉ 15 phút. Lấy lá chuối, cắt thành miếng tròn và thoa dầu ăn. Sau đó, lấy một phần bột vừa ăn, làm tròn và làm dẹt, đặt lên lá chuối. Hấp bánh trong xửng từ 15 – 20 phút.",
+                    "Step 3. Sau đó bạn lấy bánh ra và cắt miếng giò lụa có độ dày từ 1 - 1,5cm tùy theo sở thích. Đặt vào giữa 2 cái bánh là hoàn thành. Rắc thêm chút muối tiêu để ăn bắt vị hơn."
+                ]
+            }
+        },
+        {
+            "ID": 27,
+            "Name": "Cháo lòng",
+            "Information": "Cháo lòng là một món ăn truyền thống phổ biến trong ẩm thực Việt Nam. Đây là một loại cháo được chế biến từ lòng lợn, một phần của nội tạng. Cháo lòng có hương vị độc đáo và thường được người Việt ưa chuộng, đặc biệt là vào buổi sáng hoặc những ngày trời lạnh.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong cháo lòng có thể thay đổi tùy thuộc vào cách chế biến cụ thể và các nguyên liệu được sử dụng. Dưới đây là một ước lượng về hàm lượng dinh dưỡng trong một khẩu phần cháo lòng truyền thống:",
+                "Nutrition": [
+                    "Calo: 260Kcal",
+                    "Carbohydrate: 40g",
+                    "Protein: 15g",
+                    "Lipid: 10g",
+                    "Fiber: 0.4g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để chế biến một bát cháo lòng cơ bản chúng ta cần chuẩn bị các nguyên liệu và thực hiện theo công thức như sau: lòng lợn, gạo nếp, gạo tẻ, nước măm, muối, tiêu, hành lá, ngò gai, tỏi, bột ớt và ngoài ra có thể có tưởng ớt đen",
+                "Time": "1 giờ 30 phút",
+                "Cooking": [
+                    "Step 1. Lòng lợn được rửa sạch, ngâm nước muối để loại bỏ mùi tanh. Gạo nếp được ngâm nước để làm mềm.",
+                    "Step 2. Nấu nước dùng từ lòng lợn, thường kết hợp với nước dùng từ xương lợn để tăng hương vị, khi nước dùng đã sôi, thêm gạo nếp và lòng lợn vào nấu cho đến khi cháo có độ đặc vừa ý. ",
+                    "Step 3. Lòng lợn được cắt thành từng miếng nhỏ hoặc sợi mảnh, lòng lợn sau đó được luộc hoặc nướng",
+                    "Step 4. Thêm nước mắm, muối, tiêu, hành lá, ngò gai, ớt bột, và tỏi vào cháo để làm giàu hương vị.",
+                    "Step 5. Đặt lòng lợn đã chế biến lên trên cháo, Thêm bún tàu, ớt bột, và một số gia vị khác tùy theo khẩu vị cá nhân."
+                ]
+            }
+        },
+        {
+            "ID": 23,
+            "Name": "Canh chua",
+            "Information": "Canh chua là một món ăn truyền thống và rất phổ biến trong ẩm thực Việt Nam. Món canh chua thường có hương vị chua ngọt, cay nồng, và thơm ngon. Canh chua có thể được chế biến với nhiều loại nguyên liệu khác nhau, tùy thuộc vào vùng miền và khẩu vị cá nhân.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong món canh chua có thể thay đổi tùy thuộc vào thành phần cụ thể được sử dụng trong việc nấu canh chua. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một khẩu phần canh chua (khoảng 1 chén hoặc 240ml) có thể bao gồm các thành phần như cá, rau sống, cà chua, và nước dùng:",
+                "Nutrition": [
+                    "Calo: 100Kcal",
+                    "Carbohydrate: 10g",
+                    "Protein: 10g",
+                    "Lipid: 5g",
+                    "Fiber: 4g",
+                    "Vitamins and minerals: A, B12"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để chế biến món canh chua cơ bản phù hợp với phần đa mọi người chúng ta cần chuẩn bị những nguyễn liệu phổ biến sau: Cá da trơn, rau mần, rau ngò gai, rau cần, hành lá, cà chua, bach hà, nấm hương, cà rốt, nước mắm, muối, đường, ớt, tỏi, hành, giấm gạo.",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Rửa sạch cá và cắt thành từng miếng vừa ăn, rửa sạch rau sống và củ quả, cắt nhỏ hoặc chẻ đôi.",
+                    "Step 2. Đun sôi nước dùng từ xương cá hoặc thêm nước dùng từ tảo biển, củ cải, nấm.",
+                    "Step 3. Xào tỏi, hành trong dầu nóng. Thêm củ quả vào xào chín, sau đó thêm nước dùng và nấu sôi.",
+                    "Step 4. Cho cá vào nồi nước dùng sôi, khi cá chín, thêm cà chua và nấu thêm một lúc cho cà chua chín mềm.",
+                    "Step 5. Thêm dấm, đường, muối, và ớt theo khẩu vị cá nhân. Nêm nếm để có hương vị cân đối giữa chua, cay, ngọt, và mặn.",
+                    "Step 6. Canh chua được thưởng thức nóng, ăn kèm với cơm trắng."
+                ]
+            }
+        },
+        {
+            "ID": 22,
+            "Name": "Cá kho tộ",
+            "Information": "Cá kho tộ là một món ăn truyền thống Việt Nam, nổi tiếng với hương vị đậm đà, thơm ngon, và có thể bảo quản được lâu ngày. Món ăn này thường được làm từ cá biển hoặc cá nước ngọt, được kho với nước mắm, đường, gia vị và nước cốt dừa.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món cá kho tộ có thể thay đổi tùy thuộc vào loại cá sử dụng, lượng dầu và nước cốt dừa, và các thành phần khác trong công thức. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng trong một khẩu phần cá kho tộ:",
+                "Nutrition": [
+                    "Calo: 400Kcal",
+                    "Carbohydrate: 15g",
+                    "Protein: 30g",
+                    "Lipid: 25g",
+                    "Fiber: 3g",
+                    "Vitamins and minerals: Vitamin A, Vitamin B, Vitamin D, Vitamin PP"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là hướng dẫn cơ bản cho việc làm món cá kho tộ cơ bản. Trước tiên chúng ta cần chuẩn bị các nguyên liệu sau: Cá ưa thích, nước mắm, đường, tương ớt, tỏi, gừng, dầu ăn, nước cốt dừa, hành lá, ớt.",
+                "Time": "2 giờ",
+                "Cooking": [
+                    "Step 1. Làm sạch cá, rửa với nước muối để loại bỏ mùi tanh.",
+                    "Step 2. Trong một tô nhỏ, trộn đều nước mắm, đường, tỏi băm, gừng băm, và tương ớt để tạo thành nước sốt.",
+                    "Step 3. Nếu sử dụng nước cốt dừa tươi, bạn có thể tự làm bằng cách ép nước từ dừa tươi.",
+                    "Step 4. Cho dầu vào chảo, đun nóng và phi thơm tỏi và gừng băm.",
+                    "Step 5. Đổ nước sốt vào chảo, khuấy đều. Đặt cá vào chảo, trở đều cá với gia vị. Châm nước cốt dừa vào chảo và đun sôi.",
+                    "Step 6. Khi nước sôi, giảm lửa, đậy nắp và hầm trong khoảng 30-45 phút hoặc cho đến khi cá chín mềm và gia vị thấm đều."
+                ]
+            }
+        },
+        {
+            "ID": 21,
+            "Name": "Bún thịt nướng",
+            "Information": "Bún thịt nướng là một món ăn truyền thống Việt Nam với hương vị ngon miệng, hấp dẫn và đậm đà. Món ăn này thường bao gồm các thành phần chính như bún (bún lá), thịt nướng, rau sống, bánh tráng cuốn, và nước mắm pha chua ngọt.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món bún thịt nướng cơ bản cho một khẩu phần anh trung bình phụ thuộc vào thịt, gạo làm bún, rau ăn kèm:",
+                "Nutrition": [
+                    "Calo: 400Kcal",
+                    "Carbohydrate: 50g",
+                    "Protein: 30g",
+                    "Lipid: 10g",
+                    "Fiber: 4g",
+                    "Vitamins and minerals: Vitamin A, Vitamin B9"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Bún thịt nướng là món ăn được nhiều người yêu thích bởi hương vị thơm ngon lại đầy đủ dinh dưỡng. Nếu bạn chưa biết cách làm như thế nào thì hãy tham khảo qua bài viết này nhé. Nguyên liệu chuẩn bị: Thịt heo, bún, rau xà lách, dưa leo, chanh, hành tím, tỏi, ớt, sả, nước mắm, đường, dầu mè, hạt tiêu.",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Chuẩn bị và cắt thịt, nấu nước luộc bún, rửa sạch rau sống.",
+                    "Step 2. Nướng thịt trên bếp than hoặc lò nướng cho đến khi chín và có màu vàng óng.",
+                    "Step 3. Trộn nước mắm pha và gia vị theo khẩu vị cá nhân.",
+                    "Step 4. Rửa sạch và cắt rau sống.",
+                    "Step 5. Hâm nóng bánh tráng trên chảo để làm mềm.",
+                    "Step 6. Sắp xếp bát bún với bún, thịt nướng, rau sống, và bánh tráng cuốn (nếu sử dụng). Rưới nước mắm pha lên thịt nướng."
+                ]
+            }
+        },
+        {
+            "ID": 20,
+            "Name": "Bún riêu",
+            "Information": "Bún riêu là một món ăn truyền thống và phổ biến tại Việt Nam. Món này có nguồn gốc từ miền Bắc và ngày nay đã trở thành một món ăn quen thuộc trên khắp cả nước. Bún riêu có hương vị độc đáo và đặc trưng, thường được chuẩn bị từ các nguyên liệu tươi ngon và phong phú.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món bún riêu có thể thay đổi tùy thuộc vào thành phần cụ thể được sử dụng trong món ăn, cũng như cách chuẩn bị và lượng nguyên liệu được thêm vào. Dưới đây là một ước lượng về hàm lượng dinh dưỡng cơ bản cho một khẩu phần bún riêu:",
+                "Nutrition": [
+                    "Calo: 400cal",
+                    "Carbohydrate: 50g",
+                    "Protein: 25g",
+                    "Lipid: 10g",
+                    "Fiber: 5g",
+                    "Vitamins and minerals: Vitamin A, Vitamin C"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Chế biến món bún riêu có rất nhiều phương pháp và dưới đây là phương pháp chế biến cơ bản phù hợp với số đông. Nguyên liệu chuẩn bị,",
+                "Time": "2 giờ 30 phút",
+                "Cooking": [
+                    "Step 1. Chuẩn bị và cắt các nguyên liệu như cua, ốc, tôm, riêu, rau sống, hành, ngò, ớt, và các gia vị khác.",
+                    "Step 2. Nấu nước dùng từ cua, ốc, tôm và gia vị cho đến khi có hương vị đậm đà.",
+                    "Step 3. Làm riêu từ lòng đỏ trứng gà và bột cua. Chuẩn bị các nguyên liệu khác như bún, rau sống, hành, ngò, ớt.",
+                    "Step 4. Luộc bún theo hướng dẫn trên bao bì.",
+                    "Step 5. Hấp riêu để chín, cũng như hấp cua, ốc, tôm nếu cần.",
+                    "Step 6. Đặt bún vào đĩa, xếp riêu, cua, ốc, tôm và rau sống lên trên. Rót nước dùng nóng sôi lên trên món ăn. Thêm hành, ngò, ớt và gia vị theo khẩu vị cá nhân."
+                ]
+            }
+        },
+        {
+            "ID": 19,
+            "Name": "Bún mắm",
+            "Information": "Bún mắm là một món ăn truyền thống của Việt Nam, có nguồn gốc từ miền Tây Nam Bộ. Món ăn này thường được chế biến từ nước mắm Phan Thiết, một loại nước mắm nổi tiếng của Việt Nam, cùng với các nguyên liệu khác để tạo nên hương vị độc đáo và hấp dẫn.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong món bún mắm có thể thay đổi tùy thuộc vào cách chế biến cụ thể, tỷ lệ nguyên liệu, và thành phần cụ thể được sử dụng trong mỗi công thức. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một suất bún mắm truyền thống:",
+                "Nutrition": [
+                    "Calo: 600cal",
+                    "Carbohydrate: 70g",
+                    "Protein: 25g",
+                    "Lipid: 25g",
+                    "Fiber: 5g",
+                    "Vitamins and minerals:  vitamin A, vitamin C, canxi, Fe, và iodine."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để chế biến món bún mắn truyền thống đầy đủ hương vị chúng ta cần chế biến với các loại nguyên liệu sau: Mắn ruốc, bún, cá linh hoặc cá basa, rau sống, lá chuối non, gia vị nước mắm, ớt, tỏi, nước cốt dừa, giấm, hành phi.",
+                "Time": "2 giờ",
+                "Cooking": [
+                    "Step 1. Hâm nóng 1-2 thìa nước mắm và đun sôi, Cho mắm ruốc vào nước mắm sôi, khuấy đều, để lửa nhỏ và nấu cho mắm tan hết. Nếu muốn nước mắm đậm đà hơn, bạn có thể thêm chút đường, tỏi băm nhỏ và ớt băm nhuyễn.",
+                    "Step 2. Đun sôi nước trong nồi, sau đó cho cá vào nấu chín, lọc bỏ xác cá, chỉ giữ nước dùng. Nếu muốn nước dùng ngon hơn, bạn có thể thêm gia vị như muối, đường, nước mắm theo khẩu vị.",
+                    "Step 3. Luộc bún lá hoặc bún trắng thường chỉ mất khoảng 5-10 phút, tùy thuộc vào loại bún và cách nấu.",
+                    "Step 4. Nướng cá linh hoặc cá basa với ít dầu cho đến khi chín và giữ được độ ngon của cá. Luộc bún và để ráo nước.",
+                    "Step 5. Rau sống như giá, mùi, giòn, lúa mạch có thể để nguyên hoặc cắt nhỏ. Hành, tỏi phi thơm.",
+                    "Step 6. Chuẩn bị các bát, ăn kèm bún, cá, rau sống, lá chuối non, và bún lá. Khi ăn, bạn có thể cuốn bún mắm bằng lá chuối non và thưởng thức với nước mắm đã chế biến."
+                ]
+            }
+        },
+        {
+            "ID": 18,
+            "Name": "Bún đậu mắm tôm",
+            "Information": "Món bún đậu mắm tôm là một món ăn truyền thống Việt Nam có hương vị độc đáo và hấp dẫn. Đây là một món ăn phổ biến, đặc biệt là ở miền Bắc.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong món bún đậu mắm tôm có thể thay đổi tùy thuộc vào cách chế biến cụ thể và lượng các nguyên liệu sử dụng. Dưới đây là một ước lượng về hàm lượng dinh dưỡng trong một phần khẩu phần thông thường của món bún đậu mắm tôm:",
+                "Nutrition": [
+                    "Calo: 400cal",
+                    "Carbohydrate: 50g",
+                    "Protein: 30g",
+                    "Lipid: 12g",
+                    "Fiber: 3g",
+                    "Vitamins and minerals:  vitamin A, vitamin C, canxi, magie"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để chế biến món bún đậu mắm tôm truyền thống bạn có thể tham khảo phương thức chế biến và khâu chuẩn bị nguyên liệu như sau: Bún, đậu hũ non, mắm tôm, nước mắm, đường, ớt tỏi, dầu ăn, hành phi, rau sống.",
+                "Time": "...",
+                "Cooking": [
+                    "Step 1. Hâm nóng nước mắm tôm trên lửa nhỏ, thêm đường và khuấy đều cho đến khi đường tan hết. Nếu muốn, bạn có thể thêm ớt và tỏi băm nhỏ để tăng hương vị.",
+                    "Step 2. Cắt đậu hủ thành từng miếng vuông hoặc hình chữ nhật. Phi dầu ăn nóng, chiên đậu hủ cho đến khi giòn và có màu vàng đẹp.",
+                    "Step 3. Rau sống như giá, mùi, giòn, lúa mạch có thể để nguyên hoặc cắt nhỏ, hành, tỏi phi thơm.",
+                    "Step 4. Chuẩn bị các bát, ăn kèm bún, đậu hủ chiên, rau sống, và nước mắm tôm. Khi ăn, bạn có thể cuốn bún đậu mắm tôm bằng lá bún và thưởng thức."
+                ]
+            }
+        },
+        {
+            "ID": 17,
+            "Name": "Bún bò Huế",
+            "Information": "Bún bò Huế là một món ăn truyền thống của Việt Nam, xuất phát từ thành phố Huế - một thành phố lịch sử và văn hóa nằm ở trung tâm Việt Nam. Món này thường được biết đến với hương vị đặc trưng và phức tạp, là sự kết hợp tinh tế của các thành phần ngon miệng.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món bún bò Huế có thể thay đổi tùy thuộc vào cách chế biến cụ thể và thành phần nguyên liệu sử dụng. Tuy nhiên, dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một suất bún bò Huế truyền thống:",
+                "Nutrition": [
+                    "Calo: 600Kcal",
+                    "Carbohydrate: 70g",
+                    "Protein: 30g",
+                    "Lipid: 20g",
+                    "Fiber: 3g",
+                    "Vitamins and minerals:  vitamin A, vitamin C, canxi"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản về cách chế biến món bún bò Huế truyền thống, lưu ý rằng có thể có nhiều biến thể trong quá trình chế biến. Nguyên liệu chuẩn bị bao gồm: Xương bò, thịt bò, bún bò, nước, hành tây, gừng, tỏi, ớt, hồi, tiêu hạt, quả quế, nước mắm, muối, đường, rau sống.",
+                "Time": "3 - 4 giờ",
+                "Cooking": [
+                    "Step 1. Đổ nước vào nồi, đặt xương, thêm hành tây, gừng, tỏi, ớt, hồi, tiêu, quế, và nước mắm. Nấu nhỏ lửa từ 2-3 giờ để nước dùng thấm đều hương vị và thơm ngon.",
+                    "Step 2. Thái thịt bò thành từng lớp mỏng. Đun sôi nước, sau đó cho thịt vào nước sôi và nấu chín, Sau khi thịt chín, vớt ra, để ráo nước và thái thành từng sợi mảnh.",
+                    "Step 3. Luộc bún theo hướng dẫn trên bao bì, Chuẩn bị rau sống như giá, rau sống, lá lụa, rau bún, rau mùi.",
+                    "Step 4. Đặt bún vào tô, xếp thịt bò đã chuẩn bị lên trên. Đổ nước dùng nóng lên tô, đảm bảo phủ hết bún và thịt, thêm rau sống và gia vị theo khẩu vị cá nhân."
+                ]
+            }
+        },
+        {
+            "ID": 16,
+            "Name": "Bánh xèo",
+            "Information": "Bánh xèo là một món ăn truyền thống của Việt Nam, nổi tiếng với vị ngon, mùi thơm và sự ngon miệng. Tên bánh xèo có nguồn gốc từ tiếng Việt Nam, xuất phát từ cách bánh khi nướng tạo ra âm thanh xèo xèo. Món này thường được làm và ăn chung với gia đình và bạn bè, đặc biệt là trong các buổi tụ tập hay dịp lễ hội.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món bánh xèo có thể thay đổi tùy thuộc vào cách chế biến cụ thể và thành phần nguyên liệu sử dụng. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một khẩu phần bánh xèo truyền thống, bao gồm cả vỏ bánh và nhân bánh:",
+                "Nutrition": [
+                    "Calo: 300Kcal",
+                    "Carbohydrate: 30g",
+                    "Protein: 10g",
+                    "Lipid: 15g",
+                    "Fiber: 5g",
+                    "Vitamins and minerals:  vitamin A, canxi"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản về cách chế biến món bánh xèo truyền thống, lưu ý rằng có thể có nhiều biến thể trong quá trình chế biến. Nguyên liệu chuẩn bị bao gồm: Bột nghệ, bột gạo, nước cốt dừa, thịt heo, tôm tươi, đậu xanh hoặc đậu sốt",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Trộn bột nghệ, bột gạo, và nước cốt dừa lại với nhau để tạo nên nước bột có màu và hương thơm đặc trưng.",
+                    "Step 2. Nếu sử dụng thịt, bạn có thể xào thịt heo hoặc tôm với một ít dầu ăn, hành tỏi và gia vị theo khẩu vị cá nhân. Nếu sử dụng đậu sốt, nấu đậu xanh cho mềm rồi nghiền nhuyễn.",
+                    "Step 3. Cho nước bột vào chảo nóng, thêm nhân bánh lên trên mặt bánh khi nước bột đã đặt chảo. Nướng cho đến khi bánh trở nên giòn vàng ở cả hai mặt.",
+                    "Step 4. Đặt bánh xèo ra đĩa, cuốn bánh xèo trong lá rau sống như giá, rau sống, lá lụa, bún. Ẩn trong mỗi cuộn bánh là hương vị thơm ngon, giòn rụm của vỏ bánh và hòa quyện với hương vị ngon của nhân bánh."
+                ]
+            }
+        },
+        {
+            "ID": 15,
+            "Name": "Bánh tráng nướng",
+            "Information": "Bánh tráng nướng là một món ăn phổ biến và truyền thống ở Việt Nam. Nó thường được làm từ lá bánh tráng (gồm bột gạo, muối, và nước) được phơi khô và sau đó nướng trên bếp than hoặc lò nướng. Bánh tráng nướng thường được ăn kèm với nhiều loại gia vị và nhân khác nhau, tạo nên hương vị đa dạng và phong phú.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của món bánh tráng nướng có thể thay đổi tùy thuộc vào các thành phần cụ thể được sử dụng, như loại bánh tráng, loại gia vị, nhân, và cách chế biến. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng, nhưng lưu ý rằng các con số này chỉ mang tính chất tham khảo và có thể thay đổi:",
+                "Nutrition": [
+                    "Calo: 120Kcal",
+                    "Carbohydrate: 20g",
+                    "Protein: 5g",
+                    "Lipid: 8g",
+                    "Fiber: 3g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản về cách chế biến món bánh tráng nướng truyền thống, lưu ý rằng có thể có nhiều biến thể trong quá trình chế biến. Nguyên liệu chuẩn bị bao gồm: Bánh tráng khô hoặc tươi, dầu ăn hoặc mỡ, trứng gà, pate, thịt gà, thịt heo, thịt bò, rau giá",
+                "Time": "35 - 55 phút",
+                "Cooking": [
+                    "Step 1. Nếu sử dụng lá bánh tráng khô, hãy ngâm nó trong nước ấm cho đến khi trở lại mềm mại. Chuẩn bị nhân và gia vị theo khẩu vị cá nhân.",
+                    "Step 2. Bôi mỡ dầu lên mặt lá bánh tráng. Đặt lá bánh tráng lên bếp than hoặc lò nướng cho đến khi bánh trở nên giòn và vàng.",
+                    "Step 3. Khi bánh tráng đã giòn, thêm nhân và gia vị vào mặt bánh. Cuộn bánh lại hoặc gập thành hình vuông tùy theo sở thích.",
+                    "Step 4. Bánh tráng nướng thường được cắt thành từng miếng nhỏ, phục vụ ấm nóng. Ăn kèm với nước mắm pha chua ngọt, tương ớt, và rau sống."
+                ]
+            }
+        },
+        {
+            "ID": 14,
+            "Name": "Bánh tét",
+            "Information": "Bánh tét là một món ăn truyền thống của Việt Nam, thường được chuẩn bị và ăn trong dịp Tết Nguyên đán, một trong những lễ hội quan trọng nhất của nước này. Món bánh tét không chỉ ngon miệng mà còn mang ý nghĩa tâm linh và văn hóa sâu sắc.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh tét có thể thay đổi tùy thuộc vào cách chuẩn bị cụ thể, tỷ lệ các thành phần, và loại gạo nếp được sử dụng. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một khẩu phần bánh tét truyền thống:",
+                "Nutrition": [
+                    "Calo: 300Kcal",
+                    "Carbohydrate: 60g",
+                    "Protein: 10g",
+                    "Lipid: 8g",
+                    "Fiber: 5g",
+                    "Vitamins and minerals:  vitamin A"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để làm món bánh tét truyền thống bạn có thể tham khảo cách chế biến của chúng tôi. Nguyên liệu chuẩn bị bao gồm: Gạo nếp, thịt heo, thịt gà hoặc thịt bò, đậu xanh, lá chuối, dầu ăn hoặc mỡ nước.",
+                "Time": "8 - 12 giờ",
+                "Cooking": [
+                    "Step 1. Xào thịt với một số gia vị như muối, tiêu cho thơm ngon, trộn gạo nếp đã nở với đậu xanh nghiền nhuyễn và thịt đã xào.",
+                    "Step 2. Lá chuối được làm sạch và cắt thành các lá nhỏ phù hợp với kích thước bánh tét.",
+                    "Step 3. Đặt lá chuối ra mặt bàn hoặc một tấm phẳng, bôi mỡ dầu hoặc mỡ nước lên lá chuối. Đặt một lớp gạo nếp, thịt và đậu xanh đã chuẩn bị ở giữa lá chuối. Cuốn chặt lá chuối thành hình trụ dài và tròn, sau đó trải một lớp lá chuối khác ở bề mặt ngoài cùng.",
+                    "Step 4. Đặt bánh tét vào nồi hấp, nấu trong khoảng 6-8 giờ cho đến khi bánh chín và nhân nóng. Nước trong nồi hấp cũng nên được đun sôi từ trước.",
+                    "Step 5. Bánh tét thường được cắt thành từng miếng dày, sau đó phục vụ trong đĩa hoặc dĩa lớn."
+                ]
+            }
+        },
+        {
+            "ID": 13,
+            "Name": "Bánh pía",
+            "Information": "Bánh pía là một món bánh truyền thống có nguồn gốc từ Quảng Đông, Trung Quốc, nhưng đã trở thành một món ăn phổ biến ở Việt Nam, đặc biệt là ở thành phố Cần Thơ. Bánh pía được biết đến với lớp vỏ bánh giòn, hòa quyện với nhân đặc trưng, tạo nên hương vị độc đáo và thơm ngon.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh pía có thể thay đổi tùy thuộc vào cách chế biến cụ thể, tỷ lệ thành phần, và kích thước của từng chiếc bánh. Dưới đây là một ước lượng chung về hàm lượng dinh dưỡng trong một chiếc bánh pía truyền thống:",
+                "Nutrition": [
+                    "Calo: 150Kcal",
+                    "Carbohydrate: 25g",
+                    "Protein: 3g",
+                    "Lipid: 10g",
+                    "Fiber: 1g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Để chế biến thành phẩm món bánh pía cơ bản tại Việt Nam bạn có thể tham khảo phương thức sau. Nguyễn liệu chuẩn bị bao gồm: Bột mỳ, đường trắng, mỡ nước, nước lạnh, bơ, đường đen, dầu mè, đậu xanh, hạt hạch nhân.",
+                "Time": "1 - 2 giờ",
+                "Cooking": [
+                    "Step 1. Trong một tô, trộn bơ, đường đen, dầu mè, đậu xanh nhuyễn, và hạt hạch nhục hoặc hạt hạnh nhân. Đảm bảo trộn đều cho tạo nên nhân mịn và thơm ngon.",
+                    "Step 2. Trong một tô, trộn đều bột mỳ, đường trắng, mỡ nước, và nước lạnh. Nhồi đều cho đến khi có một bảo đế mịn.",
+                    "Step 3. Chia nhân và vỏ bánh thành các phần nhỏ tương đương, số lượng phụ thuộc vào kích thước bạn muốn cho mỗi chiếc bánh.",
+                    "Step 4. Lấy một phần vỏ bánh và vuốt thành hình tròn mỏng. Đặt một phần nhân vào giữa vỏ bánh và gói lại.",
+                    "Step 5. Đặt bánh đã làm lên khay nướng hoặc giấy nướng. Nướng trong lò đã được đặt ở nhiệt độ 180°C trong khoảng 20-30 phút, hoặc cho đến khi bánh có màu vàng đẹp.",
+                    "Step 6. Bánh pía thường được ăn khi còn nóng để cảm nhận hương vị thơm ngon và vỏ giòn. Bánh pía cũng có thể được bảo quản ở nhiệt độ phòng và ăn trong vài ngày sau."
+                ]
+            }
+        },
+        {
+            "ID": 12,
+            "Name": "Bánh mì",
+            "Information": "Bánh mì là một món ăn đường phố phổ biến và rất được ưa chuộng tại Việt Nam. Món này có nguồn gốc từ bánh mì Pháp (baguette) nhưng đã trải qua sự đổi mới và thích ứng với khẩu vị và văn hóa Việt Nam, tạo ra nhiều phiên bản độc đáo và phong phú.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh mì kẹp Việt Nam có thể thay đổi tùy thuộc vào các thành phần cụ thể được sử dụng trong mỗi phiên bản bánh mì kẹp. Dưới đây là một ước lượng tổng quát, nhưng lưu ý rằng các con số này có thể biến động tùy thuộc vào loại nhân, bánh mì, và số lượng gia vị được sử dụng:",
+                "Nutrition": [
+                    "Calo: 500Kcal",
+                    "Carbohydrate: 60g",
+                    "Protein: 20g",
+                    "Lipid: 20g",
+                    "Fiber: 3g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Đây là quá trình chế biến và nguyên liệu cần thiết để chế món bánh mì kẹp Việt Nam cơ bản. Nguyên liệu chuẩn bị bao gồm: Bánh mì baguette, thịt gà, thịt heo hoặc thịt nướng, dưa leo,, tương ớt, sốt mayonnaise, hành tây, tiêu, tỏi.",
+                "Time": "40 - 60 phút.",
+                "Cooking": [
+                    "Step 1. Nếu sử dụng thịt nướng, hãy nướng thịt cho đến khi chín. Chuẩn bị rau sống và các nguyên liệu khác.",
+                    "Step 2. Bánh mì baguette được cắt ngang một nửa để tạo thành lớp vỏ trên và dưới.",
+                    "Step 3. Nếu sử dụng thịt băm nhuyễn, xào thịt với gia vị như hành tây, tỏi, tiêu cho đến khi chín. Nếu sử dụng thịt nướng, cắt thịt thành lớp mỏng.",
+                    "Step 4. Bôi nước sốt lên cả hai mặt bánh mì baguette. Đặt thịt lên lớp dưới, sau đó thêm rau sống và nước sốt theo khẩu vị cá nhân.",
+                    "Step 5. Bánh mì kẹp Việt Nam thường ăn nhanh, thưởng thức ấm nóng để cảm nhận hương vị tốt nhất."
+                ]
+            }
+        },
+        {
+            "ID": 33,
+            "Name": "Heo Quay",
+            "Information": "Món heo quay nguyên con là một món ăn truyền thống phổ biến trong nhiều nền văn hóa ẩm thực trên thế giới. Đây thường là một bữa tiệc lễ hội hoặc gia đình quan trọng. Món heo quay nguyên con thường có ý nghĩa lịch sử và văn hóa đặc biệt trong nhiều nền ẩm thực. Nó thường được chọn làm món ăn chính trong các dịp quan trọng như Tết Nguyên Đán hoặc các lễ hội truyền thống để thể hiện sự trang trí và hào nhoáng trong bữa tiệc.",
+            "NutritionInfo": {
+                "Info": "Thông tin dinh dưỡng của món heo quay nguyên con sẽ thay đổi tùy thuộc vào kích thước của con heo, cách chế biến, và các nguyên liệu sử dụng. Dưới đây là một ước lượng tổng quan, giả sử thông tin dưới đây được tính cho 100g phần ăn:",
+                "Nutrition": [
+                    "Calo: 500Kcal",
+                    "Carbohydrate: 1g",
+                    "Protein: 30g",
+                    "Lipid: 40g",
+                    "Vitamins and minerals:  B12, Natri, Fe, zinc, phosphorus"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Chế biến món heo quay nguyên con đòi hỏi sự chuẩn bị kỹ lưỡng và kỹ thuật để đảm bảo thịt heo mềm, giòn, và thơm ngon. Dưới đây là hướng dẫn cách chế biến món heo quay nguyên con và các nguyên liệu cần chuẩn bị: Con heo nguyên, muối, tiêu, đường, nước mắm, tỏi băm nhỏ, ớt băm nhỏ, dầu ăn hoặc mỡ heo.",
+                "Time": "4 giờ",
+                "Cooking": [
+                    "Step 1. Rửa sạch heo bằng nước muối và nước ấm để loại bỏ bụi bẩn và máu, làm sạch cổ và tai.",
+                    "Step 2. Trong một tô, trộn muối, tiêu, đường, tỏi, ớt và nước mắm để tạo thành hỗn hợp gia vị. Bôi đều hỗn hợp gia vị lên bề mặt và bên trong con heo.",
+                    "Step 3. Đặt con heo trên kệ nướng hoặc bếp nướng than hoa và để khô da heo trong khoảng 1-2 giờ. ",
+                    "Step 4. Nướng heo trong lò hoặc quay trên bếp than ở nhiệt độ cao (khoảng 200-220°C) trong khoảng 30 phút đầu tiên để làm cho da heo giòn.",
+                    "Step 5. Giảm nhiệt độ xuống khoảng 180-190°C và nướng tiếp trong thời gian còn lại, khoảng 20-25 phút cho mỗi kg thịt.                ",
+                    "Step 6. Trong suốt quá trình nướng, quét dầu ăn hoặc mỡ heo lên bề mặt để làm cho da giòn và màu vàng nâu.",
+                    "Step 7. Sử dụng que xỏ thịt để kiểm tra xem thịt đã chín đến mức mong muốn chưa.",
+                    "Step 8. Chặt heo thành từng miếng và phục vụ cùng với nước mắm pha chua ngọt, ớt, và các món ăn kèm theo ý thích."
+                ]
+            }
+        },
+        {
+            "ID": 10,
+            "Name": "Bánh giò",
+            "Information": "Bánh giò là một món ăn truyền thống của người Việt Nam, có nguồn gốc từ miền Bắc và thường được biết đến như là một món ăn sáng ngon miệng. Bánh giò có hình dạng độc đáo, bên ngoài là lá chuối hoặc lá chuối non, bên trong là lớp bột gạo và nhân từ thịt heo xay nhuyễn. Món ăn này thường được ăn kèm với nước mắm pha loãng, gia vị và rau sống. Dưới đây là một giới thiệu tổng quát về bánh giò:",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh giò có thể thay đổi tùy thuộc vào thành phần cụ thể và cách chế biến của mỗi người. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng trong một chiếc bánh giò truyền thống:",
+                "Nutrition": [
+                    "Calo: 200Kcal",
+                    "Carbohydrate: 30g",
+                    "Protein: 10g",
+                    "Lipid: 8g",
+                    "Fiber: 2g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là hướng dẫn cơ bản cho việc chế biến món bánh giò truyền thống. Lưu ý rằng có nhiều cách làm bánh giò và các bước cụ thể có thể thay đổi tùy theo khẩu vị và phong cách nấu ăn cá nhân. Trong trường hợp này, chúng ta sẽ sử dụng lá chuối non để cuốn bánh. Nguyên liệu chuẩn bị bao gồm: Bột gạo nguyên hạt, lá chuối non, thịt heo xay, hành tây băm, tỏi băm, nước mắm, đường , tiêu, muối.",
+                "Time": "2 giờ",
+                "Cooking": [
+                    "Step 1. Đặt bột gạo vào một tô, thêm nước và trộn đều để có hỗn hợp bột mềm mịn.",
+                    "Step 2. Trong một tô, trộn thịt heo xay với hành tây băm, tỏi băm, nước mắm, đường, tiêu, và muối. Trộn đều để thịt hấp thụ gia vị.",
+                    "Step 3. Lấy lá chuối non, đặt một lượng bột gạo vào giữa lá chuối, rồi thêm một lớp nhân thịt. Cuốn bánh lại để tạo hình trụ.",
+                    "Step 4. Đặt bánh cuộn vào chảo hấp hoặc nồi hấp. Hấp bánh trong khoảng 30-40 phút cho đến khi bánh chín.",
+                    "Step 5. Bánh giò thường được ăn nóng, ăn kèm với nước mắm pha loãng, rau sống như xà lách, giá đỗ, và ớt."
+                ]
+            }
+        },
+        {
+            "ID": 9,
+            "Name": "Bánh đúc",
+            "Information": "Bánh đúc là một món ăn truyền thống Việt Nam, có nhiều phiên bản và được ưa chuộng ở nhiều vùng miền khác nhau. Bánh này thường được làm từ bột nếp, đậu xanh, hoặc bột gạo, tùy thuộc vào loại bánh đúc bạn chọn. Bánh đúc thường có hình dáng phẳng, vuông, hoặc hình tròn, có thể ăn kèm với nước cốt dừa, đường mía, hoặc đổ mỡ hành để tạo thêm hương vị. Dưới đây là một giới thiệu tổng quát về món bánh đúc:",
+            "NutritionInfo": {
+                "Info": "   ",
+                "Nutrition": [
+                    "Calo: 200Kcal",
+                    "Carbohydrate: 40g",
+                    "Protein: 5g",
+                    "Lipid: 2g",
+                    "Fiber: 3g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là hướng dẫn cơ bản cho việc chế biến bánh đúc ngọt, một loại bánh đúc phổ biến tại Việt Nam. Để làm bánh đúc đậu xanh hoặc bánh đúc xanh, bạn có thể thêm đậu xanh hoặc lá chuối xanh vào bột. Dưới đây là một cách làm bánh đúc ngọt truyền thống với nguyên liệu: Bột nếp, nước, đường, nước cốt dừa, muối.",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Trộn bột nếp với nước và đường trong một tô. Khuấy đều cho đến khi đường tan hết.",
+                    "Step 2. Đổ hỗn hợp bột nếp vào khuôn bánh hoặc nồi hấp được trải lớp dầu để tránh bánh dính. Hấp bánh trong khoảng 20-30 phút cho đến khi bánh chín.",
+                    "Step 3. Trong một nồi, hâm nóng nước cốt dừa, thêm đường và muối (nếu sử dụng). Khuấy cho đến khi đường tan hết và nước cốt dừa sôi.",
+                    "Step 4. Khi bánh đã hấp chín, đặt bánh ra khỏi khuôn. Làm một khe nhỏ giữa bánh và đổ nước cốt dừa vào để bánh thấm đều.",
+                    "Step 5. Bánh đúc ngọt có thể được ăn ấm hoặc lạnh tùy theo sở thích cá nhân. Thưởng thức bánh đúc ngọt với nước cốt dừa và đường."
+                ]
+            }
+        },
+        {
+            "ID": 6,
+            "Name": "Bánh cuốn",
+            "Information": "Bánh cuốn là một món ăn truyền thống của Việt Nam, có nguồn gốc từ miền Bắc và ngày càng trở thành một món phổ biến trên khắp cả nước. Bánh cuốn có hình dạng nhỏ gọn, mỏng có thể ăn kèm với nhiều loại nhân khác nhau.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh cuốn có thể thay đổi tùy thuộc vào loại bánh, thành phần của nhân, và cách chế biến cụ thể. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng của bánh cuốn, dựa trên một phần lớn bánh cuốn:",
+                "Nutrition": [
+                    "Calo: 150Kcal",
+                    "Carbohydrate: 25g",
+                    "Protein: 5g",
+                    "Lipid: 3g",
+                    "Fiber: 2g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là hướng dẫn cách làm bánh cuốn thịt mộc nhĩ. Bạn có thể điều chỉnh tỷ lệ nguyên liệu theo khẩu vị cá nhân của mình. Nguyên liệu cần thiết: bột gạo, bột nở khoai lang, nước ,dầu ăn, muối, thịt mộc nhĩ, nấm hương, hành lá, tiêu, nước mắm.",
+                "Time": "2 giờ 30 phút",
+                "Cooking": [
+                    "Step 1. Trộn bột gạo nở, bột nở khoai lang hoặc khoai môn, nước, dầu ăn, và muối trong một tô đến khi hỗn hợp đều, đun sôi nước trong nồi hấp.",
+                    "Step 2. Đặt một lớp mỏng bột lên khay hấp đã chống dầu, hấp trong khoảng 1-2 phút cho đến khi bánh chín. Lăn bánh từ khay bằng một cây lăn bánh cuốn để tạo lớp bánh mỏng.",
+                    "Step 3. Xào thịt mộc nhĩ với dầu ăn cho đến khi thịt chín, thêm nấm hương và hành lá, xào đến khi thơm và chín tới. Thêm gia vị theo khẩu vị cá nhân.",
+                    "Step 4. Đặt một lớp lá bánh cuốn (hủ tiếu) lên bàn, đặt nhân vào giữa và cuộn bánh theo chiều dài. Cuộn bánh và cắt thành từng miếng nhỏ, chuẩn bị cho giai đoạn hấp cuối cùng.",
+                    "Step 5. Đặt bánh cuốn lên đĩa, ăn kèm với rau sống và nước mắm pha loãng."
+                ]
+            }
+        },
+        {
+            "ID": 5,
+            "Name": "Bánh chưng",
+            "Information": "Bánh chưng là một món ăn truyền thống của Việt Nam, thường được chuẩn bị và ăn trong dịp Tết Nguyên Đán. Đây là một biểu tượng của sự may mắn và sung túc.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong bánh chưng có thể thay đổi tùy thuộc vào cách chế biến cụ thể và tỷ lệ thành phần sử dụng trong quá trình làm. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng trong một phần bánh chưng truyền thống (khoảng 100g):",
+                "Nutrition": [
+                    "Calo: 200Kcal",
+                    "Carbohydrate: 40g",
+                    "Protein: 5g",
+                    "Lipid: 2g",
+                    "Fiber: 4g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là hướng dẫn cơ bản để làm bánh chưng truyền thống, một món ăn truyền thống của Việt Nam, thường được chế biến trong dịp Tết Nguyên Đán. Nguyên liệu chuẩn bị bao gồm: Gạo nếp xanh, đậu xanh, thịt heo, dầu ăn, muối, nước mắm, lá chuối.",
+                "Time": "20 giờ",
+                "Cooking": [
+                    "Step 1. Nấu gạo nếp và đậu xanh. Nấu thịt và xắt thành sợi dài. Trộn gạo nếp, đậu xanh, và thịt với dầu ăn, muối, và nước mắm.",
+                    "Step 2. Rửa sạch gạo nếp và ngâm nước ít nhất 4 giờ hoặc qua đêm. Xay nhuyễn gạo nếp thành bột, thêm nước từ từ cho đến khi có độ nhớt.",
+                    "Step 3. Làm sạch lá chuối, lau khô, đặt một tờ lá chuối lên bàn làm việc. Đặt một lớp bột gạo nếp lên lá, sau đó đặt nhân ở giữa, Cuộn bánh và sử dụng dây bánh chưng để trói chặt.",
+                    "Step 4. Đun sôi nước trong nồi lớn, đặt bánh vào nước sôi, nấu từ 8 đến 12 giờ (hoặc hơn) đến khi bánh chín.",
+                    "Step 5. Sau khi bánh đã chín, đặt ra khỏi nước và để nguội. Bánh chưng thường được ăn kèm với nước mắm pha loãng."
+                ]
+            }
+        },
+        {
+            "ID": 4,
+            "Name": "Bánh canh",
+            "Information": "Bánh canh là một món ăn Việt Nam. Bánh canh có nguồn gốc từ Đông Nam Bộ, sau đó phổ biến khắp Việt Nam. Bánh canh bao gồm nước lèo được nấu từ tôm, cá và giò heo thêm gia vị tùy theo từng loại bánh canh. Sợi bánh canh có thể được làm từ bột gạo, bột mì, bột năng hoặc bột sắn hoặc bột gạo pha bột sắn.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong món bánh canh có thể thay đổi tùy thuộc vào thành phần cụ thể được sử dụng trong mỗi biến thể của món ăn này. Dưới đây là một ước lượng về hàm lượng dinh dưỡng cho một phần bánh canh truyền thống (khoảng 200-250g):",
+                "Nutrition": [
+                    "Calo: 250Kcal",
+                    "Carbohydrate: 35g",
+                    "Protein: 15g",
+                    "Lipid: 8g",
+                    "Fiber: 3g",
+                    "Vitamins and minerals:  vitamin E, B6, Fe, kali"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản về cách làm món bánh canh cua, một biến thể phổ biến của bánh canh. Bạn có thể điều chỉnh các thành phần theo khẩu vị cá nhân của mình. Nguyên liệu chuẩn bị bao gồm: Xương heo, nước, hành tây, nước dừa, muối, tiêu, mắm, bánh canh chảo, thịt cua, thịt heo, nấm hương, hành phi, hành lá.",
+                "Time": "3 giờ 30 phút",
+                "Cooking": [
+                    "Step 1. Cho xương heo hoặc gà vào nước sôi, đun sôi và rót nước dừa tươi nếu có, có thể thêm hành tây băm nhỏ. Hạn chế việc đun sôi quá mạnh để giữ được nước dùng trong suốt.",
+                    "Step 2. Trộn thịt cua băm với thịt heo ba rội, nêm gia vị như muối, tiêu, và dầu hào, có thể thêm nấm hương đã ngâm nước và cắt nhỏ.",
+                    "Step 3. Cho bánh canh chảo vào nước sôi, đun sôi và khuấy đều để tránh bám. Khi bánh nổi lên và chín, vớt ra và ngâm vào nước lạnh để ngăn bánh bám vào nhau.",
+                    "Step 4. Cuộn bánh canh thành từng lớp và cắt thành từng đoạn ngắn.",
+                    "Step 5. Đặt bánh canh cuộn vào tô, rót nước dùng nóng đã chuẩn bị từ trước. Cho nhân cua, thịt, nấm, và các nguyên liệu khác vào tô. Rắc hành lá và hành phi lên trên cùng."
+                ]
+            }
+        },
+        {
+            "ID": 3,
+            "Name": "Bánh căn",
+            "Information": "Bánh căn là một loại bánh phổ biến của Ninh Thuận, Bình Thuận . Sau này được phát triển ở vùng Nam Trung Bộ, đặc biệt ở các tỉnh Khánh Hòa, Lâm Đồng, Bình Thuận. Bánh căn có hình dáng gần với bánh khọt ở các tỉnh phía Nam, nhưng cách làm hoàn toàn khác.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh căn có thể thay đổi tùy thuộc vào cách chế biến và thành phần chính trong từng chiếc bánh căn cụ thể. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng cho một chiếc bánh căn truyền thống (khoảng 50g):",
+                "Nutrition": [
+                    "Calo: 100Kcal",
+                    "Carbohydrate: 20g",
+                    "Protein: 4g",
+                    "Lipid: 2g",
+                    "Fiber: 1g",
+                    "Vitamins and minerals:  Vitamin C, Vitamin E"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản để làm bánh căn. Bạn có thể điều chỉnh các thành phần và tỷ lệ theo khẩu vị cá nhân của mình. Nguyên liệu bao gồm: Bột gạo nếp, nước, trứng gà, tôm tươi, thịt lợn ba rọi, hành phi, mỡ hành, mắm, muối, tiêu, đường.",
+                "Time": "2 giờ",
+                "Cooking": [
+                    "Step 1. Trộn bột gạo nếp và nước lọc đều cho đến khi có hỗn hợp nhẹ và mịn.",
+                    "Step 2. Đun sôi nước trong nồi, Đổ từ từ hỗn hợp bột vào nước sôi, khuấy đều cho đến khi bột nổi lên và chín.",
+                    "Step 3. Đổ từ từ từ từ từ nước bột ra khuôn bánh căn đã được tráng mỡ.",
+                    "Step 4. Trong một tô, khuấy đều trứng, thêm tôm, thịt lợn, hành phi, mỡ hành, nước mắm, muối, tiêu, và đường theo khẩu vị cá nhân.",
+                    "Step 5. Đun nóng chảo với mỡ hành, cho hỗn hợp nhân vào chiên đến khi thơm và chín.",
+                    "Step 6. Đặt lá chuối non hoặc rau lá lên bàn, đặt một ít bột bánh và nhân lên trên lá, cuộn lại như một cuộn sushi. Cắt bánh căn cuộn thành từng miếng nhỏ, ăn kèm với rau sống và nước mắm pha loãng."
+                ]
+            }
+        },
+        {
+            "ID": 2,
+            "Name": "Bánh bột lọc",
+            "Information": "Bánh bột lọc là một loại bánh Việt Nam, có xuất xứ từ Huế. Đây là món ăn phổ biến ở Hà Nội, Nam Định, các tỉnh miền Trung từ Nghệ An đến Đà Nẵng và đặc biệt là Huế. Ở Nam Định, người ta làm bánh bột lọc với mộc nhĩ.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng của bánh bột lọc có thể thay đổi tùy thuộc vào các yếu tố như cách chế biến cụ thể, kích thước và thành phần. Dưới đây là một ước lượng về hàm lượng dinh dưỡng cho một chiếc bánh bột lọc truyền thống (khoảng 50g):",
+                "Nutrition": [
+                    "Calo: 90Kcal",
+                    "Carbohydrate: 20g",
+                    "Protein: 3g",
+                    "Lipid: 1g",
+                    "Fiber: 0.5g",
+                    "Vitamins and minerals:  canxi, Fe"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một hướng dẫn cơ bản để làm bánh bột lọc, một món ăn truyền thống của miền Trung Việt Nam. Bạn có thể điều chỉnh thành phần và tỷ lệ theo khẩu vị cá nhân của mình. Nguyên liệu chuẩn bị: Bột gạo nếp trắng, nước lọc, muối, tôm, thịt heo, nấm hương, hành lá, nước mắm, nước lèo từ thịt tôm, ớt tươi",
+                "Time": "1 giờ",
+                "Cooking": [
+                    "Step 1. Trộn đều bột nếp với nước và muối cho đến khi tạo thành một hỗn hợp",
+                    "Step 2. Đun sôi nước trong nồi hấp. Trong khi chờ nước sôi. Khi nước sôi, hấp bánh trong khoảng 15-20 phút cho đến khi vỏ bánh chín và trong.",
+                    "Step 3. Đặt hỗn hợp nước bột trong túi lọc nylon hoặc túi lọc vải sạch.",
+                    "Step 4. Trong một tô, trộn tôm, thịt, hành lá, hành khô và các gia vị khác với nhau. Nêm nếm vị theo khẩu vị cá nhân của bạn.",
+                    "Step 5. Khi vỏ bánh đã chín, lấy từng lớp vỏ bánh ra và để nguội.",
+                    "Step 6. Đặt một lớp vỏ bánh xuống bàn làm việc, đặt một lượng nhân vào giữa và gói lại thành hình vuông hoặc hình chữ nhật."
+                ]
+            }
+        },
+        {
+            "ID": 1,
+            "Name": "Bánh bèo",
+            "Information": "Bánh bèo là một món bánh xuất thân từ Cố Đô Huế rất thịnh hành ở miền Trung, ngoài ra cũng phổ biến ở miền Nam Việt Nam. Bánh bèo đã trở thành một nét đẹp trong văn hóa ẩm thực của người dân Viêt Nam từ bao đời nay. Tên bánh bèo có thể xuất phát từ hình dạng của nó: giống như cái lá của cây bèo.",
+            "NutritionInfo": {
+                "Info": "Hàm lượng dinh dưỡng trong bánh bèo có thể thay đổi tùy thuộc vào thành phần chính và cách làm của từng loại bánh. Dưới đây là một ước lượng tổng quát về hàm lượng dinh dưỡng trong 100g bánh bèo:",
+                "Nutrition": [
+                    "Calo: 80Kcal",
+                    "Carbohydrate: 15g",
+                    "Protein: 3g",
+                    "Lipid: 7g",
+                    "Fiber: 1g"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Dưới đây là một cách chế biến bánh bèo truyền thống sử dụng nhân tôm và thịt heo. Hãy lưu ý rằng có nhiều biến thể về cách làm bánh bèo tùy thuộc vào khu vực và sở thích cá nhân với các nguyên liệu sau: Bột gạo, nước, muối, tôm, thịt heo, hanh lá, nước mắm, tiêu.",
+                "Time": "1 - 2 giờ",
+                "Cooking": [
+                    "Step 1. Hấp tôm cho đến khi chín. Cắt tôm thành từng đoạn nhỏ.",
+                    "Step 2. Trộn tôm với thịt heo béo, hành lá, nước mắm, tiêu, muối, và đường. Để hỗn hợp nghỉ trong khoảng 15-20 phút để gia vị thấm vào nhân.",
+                    "Step 3. Trộn bột gạo với nước và muối cho đến khi hỗn hợp đồng đều. ",
+                    "Step 4. Đun nóng nước trong nồi hấp, Khi nước sôi, đặt 1-2 muỗng canh hỗn hợp bột vào từng lớp của khay hấp đã phủ bằng dầu ăn. Hấp trong khoảng 2-3 phút cho đến khi bánh chín.",
+                    "Step 5. Đặt một lớp bột hấp xuống bàn làm việc, Đặt một lượng nhân vào giữa bột. Gập lại thành hình bánh vuông hoặc hình chữ nhật.",
+                    "Step 6. Hấp bánh trong khoảng 15-20 phút cho đến khi nhân chín và bánh cũng chín đẹp.",
+                    "Step 7. Khi bánh đã chín, trang trí bánh bèo bằng hành phi và tiêu."
+                ]
+            }
+        },
+        {
+            "ID": 37,
+            "Name": "Mì Quảng",
+            "Information": "Mì Quảng là một món ăn đặc sản của tỉnh Quảng Nam và thành phố Đà Nẵng, Việt Nam. Món ăn này được làm từ sợi mì gạo to, dai, được tráng mỏng và thái theo chiều ngang, kết hợp với thịt heo, tôm, thịt gà (hoặc cá), rau thơm và nước dùng đậm đà.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của mì Quảng phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một tô mì Quảng có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một tô mì Quảng thịt heo có trọng lượng khoảng 500g, cung cấp cho cơ thể khoảng:   ",
+                "Nutrition": [
+                    "Calo: 600 cal",
+                    "Lipid: 50 g",
+                    "Protein: 25 g",
+                    "Farina: 70 g",
+                    "Fiber: 10 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C "
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Sợi mì Quảng,Thịt heo, tôm, thịt gà (hoặc cá), Rau thơm, Nước dùng, Gia vị( đường phèn, muối, hạt nêm, nước mắm, v.v.)",
+                "Time": "45 - 60 phút",
+                "Cooking": [
+                    "Step 1. Nấu nước dùng: Cho xương heo, tôm, thịt gà (hoặc cá) vào nồi, đổ nước ngập mặt, thêm hành khô, tỏi, ớt,... và nấu cho đến khi thịt chín mềm.",
+                    "Step 2. Luộc mì Quảng: Cho mì Quảng vào nồi nước sôi, luộc chín trong khoảng 2-3 phút, rồi vớt ra để ráo nước.",
+                    "Step 3. Xào thịt: Phi thơm hành khô, tỏi, rồi cho thịt heo, tôm, thịt gà (hoặc cá) vào xào chín.",
+                    "Step 4. Trình bày: Cho mì Quảng ra tô, thêm thịt xào, rau thơm và chan nước dùng."
+                ]
+            }
+        },
+        {
+            "ID": 40,
+            "Name": "Nem chua",
+            "Information": "Nem chua là một món ăn truyền thống của Việt Nam, được làm từ thịt lợn, thính gạo, lá chuối và các gia vị khác. Món ăn này có vị chua ngọt, dai dai, thơm ngon, thường được ăn kèm với tương ớt, rau sống. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của nem chua phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một chiếc nem chua có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một chiếc nem chua có trọng lượng khoảng 50g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 100 cal",
+                    "Lipid: 5 g",
+                    "Protein: 10 g",
+                    "Fiber: 1 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Thịt lợn nạc: 500g, Thính gạo: 100g, Lá chuối: 20 lá, Gia vị: muối, đường, bột ngọt, nước mắm, tỏi, ớt",
+                "Time": "1-3 ngày ",
+                "Cooking": [
+                    "Step 1. Thịt lợn rửa sạch, xay nhuyễn.",
+                    "Step 2. Thính gạo rang chín, trộn với thịt lợn xay, thêm muối, đường, bột ngọt, nước mắm, tỏi, ớt và trộn đều.",
+                    "Step 3. Cho hỗn hợp thịt vào khuôn, bọc kín bằng lá chuối và buộc chặt.",
+                    "Step 4. Ủ nem chua ở nhiệt độ phòng trong khoảng 3 ngày là có thể ăn được."
+                ]
+            }
+        },
+        {
+            "ID": 43,
+            "Name": "Phở",
+            "Information": "Phở là một món ăn truyền thống của Việt Nam, được làm từ bánh phở, thịt bò hoặc thịt gà, nước dùng và một số loại gia vị khác. Phở được xem là một trong những món ăn tiêu biểu cho nền ẩm thực Việt Nam. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của phở phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một tô phở có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một tô phở bò có trọng lượng khoảng 500g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 600 cal",
+                    "Lipid: 50 g",
+                    "Protein: 25 g",
+                    "Fiber: 10 g",
+                    "Farina: 70 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Bánh phở: Bánh phở được làm từ bột gạo, được tráng mỏng và thái thành từng sợi nhỏ. Thịt bò: Thịt bò được thái lát mỏng hoặc thái miếng vuông. Nước dùng: Nước dùng phở được nấu từ xương bò, gà, cùng với các gia vị như hành khô, tỏi, gừng,... Rau thơm: Rau thơm được sử dụng để ăn kèm phở, bao gồm hành lá, ngò gai, ngò rí, húng quế,... Chanh: Chanh được sử dụng để pha nước chấm phở. Ớt: Ớt được sử dụng để pha nước chấm phở.",
+                "Time": "45 - 60 phút",
+                "Cooking": [
+                    "Step 1. Nấu nước dùng: Xương bò, gà rửa sạch, chần qua nước sôi để loại bỏ tạp chất. Cho xương bò, gà vào nồi, thêm nước ngập mặt, thêm hành khô, tỏi, gừng và các gia vị khác, đun sôi rồi hạ nhỏ lửa, ninh trong khoảng 4-5 tiếng cho đến khi nước dùng ngọt và trong.",
+                    "Step 2. Luộc bánh phở: Cho bánh phở vào nồi nước sôi, luộc chín trong khoảng 2-3 phút, rồi vớt ra để ráo nước.",
+                    "Step 3. Xào thịt bò: Phi thơm hành khô, tỏi, rồi cho thịt bò vào xào chín.",
+                    "Step 4. Cho bánh phở ra tô, thêm thịt bò xào, chan nước dùng nóng, thêm rau thơm và chanh, ớt."
+                ]
+            }
+        },
+        {
+            "ID": 50,
+            "Name": "Xôi xéo",
+            "Information": "Xôi xéo là một món ăn truyền thống của Việt Nam, được làm từ gạo nếp, đậu xanh và hành phi. Món ăn này có vị ngọt của xôi, béo của đậu xanh và thơm của hành phi, thường được ăn kèm với chả lụa, chả quế, giò chả,... ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của xôi xéo phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một gói xôi xéo có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một gói xôi xéo có trọng lượng khoảng 500g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 664 cal",
+                    "Lipid: 50 g",
+                    "Protein: 25 g",
+                    "Fiber: 10 g",
+                    "Farina: 70 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C"
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Gạo nếp: 500g, Đậu xanh: 200g, Hành khô: 50g, Dầu ăn: 50ml,Gia vị: muối, đường",
+                "Time": "6 - 8 tiếng",
+                "Cooking": [
+                    "Step 1. Nấu xôi: Gạo nếp vo sạch, ngâm nước qua đêm hoặc ít nhất 4 tiếng. Cho gạo nếp vào nồi, thêm nước ngập mặt, đun sôi rồi hạ nhỏ lửa, ninh trong khoảng 20-30 phút cho đến khi xôi chín mềm.",
+                    "Step 2. Nấu đậu xanh: Đậu xanh vo sạch, ngâm nước qua đêm hoặc ít nhất 4 tiếng. Cho đậu xanh vào nồi, thêm nước ngập mặt, đun sôi rồi hạ nhỏ lửa, ninh trong khoảng 20-30 phút cho đến khi đậu xanh chín mềm.",
+                    "Step 3. Phi hành: Hành khô bóc vỏ, thái nhỏ. Cho dầu ăn vào chảo, phi thơm hành khô."
+                ]
+            }
+        },
+        {
+            "ID": 25,
+            "Name": "Cao lầu",
+            "Information": "Cao lầu là một món ăn truyền thống của Việt Nam, được làm từ sợi mì vàng, thịt lợn xá xíu, tôm, các loại rau sống và nước dùng. Món ăn này có vị ngọt thanh của thịt, vị béo của nước dùng, vị cay của ớt và vị thơm của rau sống, thường được ăn kèm với chanh và ớt. Cao lầu có nguồn gốc từ Hội An, Quảng Nam, Việt Nam. Món ăn này được cho là do người Hoa du nhập vào Hội An và được người dân địa phương biến tấu cho phù hợp với khẩu vị.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của cao lầu phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một tô cao lầu có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một tô cao lầu có trọng lượng khoảng 500g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 700 cal",
+                    "Lipid: 50 g",
+                    "Protein: 25 g",
+                    "Fiber: 10 g",
+                    "Farina: 70 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C,..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Sợi mì cao lầu: Sợi mì cao lầu được làm từ bột gạo, được tráng mỏng và phơi khô. Thịt lợn xá xíu: Thịt lợn xá xíu được ướp với các gia vị như đường, muối, tiêu, dầu hào,... rồi đem nướng chín. Tôm: Tôm được luộc chín và bóc vỏ. Các loại rau sống: Các loại rau sống thường dùng để ăn kèm cao lầu bao gồm xà lách, rau thơm, giá đỗ,... Nước dùng cao lầu: Nước dùng cao lầu được nấu từ xương heo, tôm, cùng với các gia vị như hành khô, tỏi, gừng,...",
+                "Time": "45 - 60 phút",
+                "Cooking": [
+                    "Step 1. Nấu nước dùng: Xương heo, tôm rửa sạch, chần qua nước sôi để loại bỏ tạp chất. Cho xương heo, tôm vào nồi, thêm nước ngập mặt, thêm hành khô, tỏi, gừng và các gia vị khác, đun sôi rồi hạ nhỏ lửa, ninh trong khoảng 4-5 tiếng cho đến khi nước dùng ngọt và trong.",
+                    "Step 2. Luộc mì cao lầu: Cho mì cao lầu vào nồi nước sôi, luộc chín trong khoảng 2-3 phút, rồi vớt ra để ráo nước.",
+                    "Step 3. Xào thịt lợn xá xíu: Phi thơm hành khô, tỏi, rồi cho thịt lợn xá xíu vào xào chín.",
+                    "Step 4. Trình bày: Cho mì cao lầu ra tô, thêm thịt lợn xá xíu, tôm, các loại rau sống và nước dùng nóng"
+                ]
+            }
+        },
+        {
+            "ID": 0,
+            "Name": "Bánh bao",
+            "Information": "Bánh bao là một loại bánh hấp, được làm từ bột mì, nhân thịt, trứng, tôm, và các loại rau củ quả. Bánh bao có thể được hấp chín hoặc chiên giòn, thường được ăn kèm với tương ớt, xì dầu, hoặc nước mắm. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của bánh bao phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một chiếc bánh bao có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một chiếc bánh bao nhân thịt có trọng lượng khoảng 80g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 200 cal",
+                    "Lipid: 10 g",
+                    "Protein: 10 g",
+                    "Fiber: 3 g",
+                    "Farina: 25 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C,..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Vỏ bánh: Bột mì đa dụng: 300g, Nước ấm: 150ml, Men nở: 10g, Đường: 20g, Muối: 5g",
+                "Time": "30 phút",
+                "Cooking": [
+                    "Step 1. Làm vỏ bánh: Cho bột mì, men nở, đường, muối vào tô, trộn đều. Cho nước ấm vào từ từ, vừa cho vừa trộn đều cho đến khi bột thành khối mịn, không dính tay. Ủ bột trong khoảng 1 tiếng cho bột nở gấp đôi.",
+                    "Step 2. Làm nhân bánh: Mộc nhĩ ngâm nước cho nở mềm, rửa sạch, băm nhỏ. Hành lá rửa sạch, thái nhỏ. Hành khô bóc vỏ, băm nhỏ. Cho thịt lợn, mộc nhĩ, hành lá, hành khô, gia vị vào tô, trộn đều.",
+                    "Step 3. Tạo hình bánh bao: Chia bột thành từng phần bằng nhau, vo tròn.Cho nhân bánh vào giữa viên bột, vo tròn lại",
+                    "Step 4. Hấp bánh bao: Cho bánh bao vào xửng hấp, hấp trong khoảng 20-30 phút cho đến khi bánh chín."
+                ]
+            }
+        },
+        {
+            "ID": 11,
+            "Name": "Bánh gối",
+            "Information": "Bánh gối là một món ăn truyền thống của Việt Nam, được làm từ bột mì, nhân thịt, mộc nhĩ, nấm hương, hành lá, và gia vị. Bánh gối có hình bán nguyệt, được chiên giòn vàng ruộm, thường được ăn kèm với nước mắm chua ngọt.Bánh gối có nguồn gốc từ miền Bắc Việt Nam, được du nhập vào miền Nam và miền Trung. Bánh gối thường được bán ở các chợ, vỉa hè và các cửa hàng ăn uống.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của bánh gối phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một chiếc bánh gối có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết. Theo ước tính, một chiếc bánh gối có trọng lượng khoảng 70g, cung cấp cho cơ thể khoảng:",
+                "Nutrition": [
+                    "Calo: 196 kcal",
+                    "Lipid: 10 g",
+                    "Protein: 10 g",
+                    "Fiber: 3 g",
+                    "Farina: 25 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C,..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Vỏ bánh: Bột mì đa dụng: 300, Nước ấm: 150ml, Men nở: 10g, Đường: 20g,Muối: 5g, Nhân bánh:, Thịt lợn băm: 200g, Mộc nhĩ: 50g, Nấm hương: 50g, Hành lá: 20g, Hành khô: 1 củ, Gia vị: muối, tiêu, hạt nêm, dầu hào",
+                "Time": "30 phút",
+                "Cooking": [
+                    "Step 1. Làm vỏ bánh: Cho bột mì, men nở, đường, muối vào tô, trộn đều., Cho nước ấm vào từ từ, vừa cho vừa trộn đều cho đến khi bột thành khối mịn, không dính tay., Ủ bột trong khoảng 1 tiếng cho bột nở gấp đôi.",
+                    "Step 2. Làm nhân bánh: Mộc nhĩ ngâm nước cho nở mềm, rửa sạch, băm nhỏ. Nấm hương ngâm nước cho nở mềm, rửa sạch, băm nhỏ. Hành lá rửa sạch, thái nhỏ. Hành khô bóc vỏ, băm nhỏ. Cho thịt lợn, mộc nhĩ, nấm hương, hành lá, hành khô, gia vị vào tô, trộn đều.",
+                    "Step 3. Tạo hình bánh gối: Chia bột thành từng phần bằng nhau, vo tròn. Cán bột thành miếng mỏng. Cho nhân bánh vào giữa miếng bột, gấp đôi lại. Cắt bánh gối thành hình bán nguyệt.",
+                    "Step 4. Chiên bánh gối: Cho dầu ăn vào chảo, đun nóng. Cho bánh gối vào chiên vàng ruộm. Vớt bánh gối ra, để ráo dầu"
+                ]
+            }
+        },
+        {
+            "ID": 28,
+            "Name": "Cơm tấm",
+            "Information": "Cơm tấm là một món ăn truyền thống của Việt Nam, có nguồn gốc từ miền Nam Việt Nam. Món ăn này có nguyên liệu chính là cơm tấm, sườn nướng, trứng ốp la, và đồ chua. Cơm tấm thường được ăn kèm với nước mắm pha, dưa leo, cà chua, và mỡ hành.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của cơm tấm phụ thuộc vào nguyên liệu và cách chế biến. Tuy nhiên, nhìn chung, một suất cơm tấm có thể cung cấp cho cơ thể một lượng lớn các chất dinh dưỡng cần thiết.  Theo ước tính, một suất cơm tấm đầy đủ có trọng lượng khoảng 500g, cung cấp cho cơ thể khoảng :",
+                "Nutrition": [
+                    "Calo: 1200 kcal",
+                    "Lipid: 30 g",
+                    "Protein: 30 g",
+                    "Fiber: 5 g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C,..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Cơm tấm: 500g. Sườn nướng: 500g. Trứng ốp la: 2 quả. Đồ chua: 100g. Nước mắm pha: 100ml",
+                "Time": "45 phút",
+                "Cooking": [
+                    "Step 1. Cách làm cơm tấm: Vo sạch gạo tấm, cho vào nồi cơm điện, thêm nước theo tỉ lệ 1:1,5, bật nút nấu. Khi cơm chín, xới cơm ra đĩa, để nguội.",
+                    "Step 2. Cách làm sườn nướng: Sườn heo rửa sạch, chặt miếng vừa ăn. Ướp sườn với các gia vị gồm: nước mắm, đường, tiêu, tỏi, sả băm. Nướng sườn trên than hoa hoặc lò nướng cho đến khi chín vàng.",
+                    "Step 3. Cách làm trứng ốp la: Đập trứng vào tô, đánh tan. Đun nóng chảo với một chút dầu ăn, cho trứng vào chiên chín vàng.",
+                    "Step 4. Cách làm đồ chua: Cà chua, dưa leo, củ cải trắng rửa sạch, thái sợi. Cho cà chua, dưa leo, củ cải trắng vào tô, thêm giấm, đường, muối, trộn đều.",
+                    "Step 5. Cách làm nước mắm pha: Pha nước mắm với đường theo tỉ lệ 1:1, thêm tỏi, ớt băm, nước cốt chanh."
+                ]
+            }
+        },
+        {
+            "ID": 36,
+            "Name": "Khoai lang nướng",
+            "Information": "Khoai lang nướng là một món ăn phổ biến ở Việt Nam. Đây là món ăn đơn giản, dễ làm nhưng lại vô cùng thơm ngon và bổ dưỡng. Khoai nướng có thể được làm từ nhiều loại khoai khác nhau, nhưng phổ biến nhất là khoai lang. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 1 củ khoai lang có thể thay đổi tùy thuộc vào kích thước, loại khoai và cách chế biến. Tuy nhiên, trung bình 1 củ khoai lang (khoảng 180g) có chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 180 kcal",
+                    "Carbohydrate: 41,4 g",
+                    "Lipid: 0,3 g",
+                    "Protein: 4 g",
+                    "Fiber: 6,6 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B6..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Cách làm khoai nướng cũng rất đơn giản. Bạn chỉ cần chọn những củ khoai tươi ngon",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Bạn chỉ cần chọn những củ khoai tươi ngon, rửa sạch, gọt vỏ, cắt thành từng khúc vừa ăn rồi cho vào lò nướng. Thời gian nướng khoai tùy thuộc vào kích thước của củ khoai, nhưng thông thường khoảng 30-45 phút. Khi khoai chín, bạn lấy ra khỏi lò và thưởng thức ngay."
+                ]
+            }
+        },
+        {
+            "ID": 29,
+            "Name": "Dồi",
+            "Information": "Dồi là một món ăn dân dã phổ biến ở nhiều vùng miền Việt Nam. Đây là món ăn được làm từ lòng non của lợn, nhồi với nhân là thịt băm, mộc nhĩ, nấm hương, sả, hành tím, lá chanh, tiêu, gia vị. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g dồi lợn có thể thay đổi tùy thuộc vào nguyên liệu và cách chế biến, nhưng trung bình 100g dồi lợn có chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 120 kcal",
+                    "Carbohydrate: 10 g",
+                    "Protein: 10 g",
+                    "Lipid: 5g",
+                    "Fiber: 2g",
+                    "Vitamins and minerals: Canxi, Fe, Vitamin A, Vitamin C, Vitamin B6..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g lòng non lợn, 200g thịt lợn nạc, 100g mộc nhĩ ,100g nấm hương, 5 cây sả, 5 củ hành tím, 10 lá chanh, 1 muỗng cà phê hạt nêm ,1/2 muỗng cà phê bột ngọt, 1/2 muỗng cà phê tiêu xay",
+                "Time": "45 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Lòng non lợn bóp kỹ với muối, chanh hoặc giấm để khử mùi hôi. Sau đó, rửa sạch lại với nước và cắt thành từng đoạn ngắn khoảng 10cm. Thịt lợn nạc rửa sạch, băm nhuyễn. Mộc nhĩ, nấm hương ngâm nước ấm cho nở mềm, sau đó rửa sạch và thái nhỏ. Sả, hành tím bóc vỏ, rửa sạch và băm nhỏ. Lá chanh rửa sạch, thái nhỏ.",
+                    "Step 2. Trộn nhân dồi: Cho thịt lợn băm, mộc nhĩ, nấm hương, sả, hành tím, lá chanh, hạt nêm, bột ngọt, tiêu xay vào một tô lớn. Trộn đều cho các nguyên liệu hòa quyện với nhau.",
+                    "Step 3. Nhồi dồi: Dùng một chiếc phễu nhỏ để nhồi nhân dồi vào lòng non lợn. Nhồi dồi vừa chặt tay, tránh để dồi bị căng quá. Dùng dây lạt buộc chặt hai đầu dồi để nhân không bị trào ra ngoài.",
+                    "Step 4. Chế biến dồi Có thể chế biến dồi theo các cách sau: Luộc dồi: Cho dồi vào nồi nước đun sôi, luộc khoảng 30-40 phút cho dồi chín. Nướng dồi: Cho dồi lên bếp nướng, nướng khoảng 40-50 phút cho dồi chín vàng, thơm. Chiên dồi: Cho dồi vào chảo dầu nóng, chiên vàng đều hai mặt. Hấp dồi: Cho dồi vào nồi hấp, hấp khoảng 30-40 phút cho dồi chín."
+                ]
+            }
+        },
+        {
+            "ID": 41,
+            "Name": "Ngô nướng",
+            "Information": "Ngô nướng là một món ăn phổ biến ở nhiều quốc gia trên thế giới, trong đó có Việt Nam. Món ăn này được làm từ những bắp ngô tươi, được nướng trên lửa hoặc trong lò nướng. Ngô nướng có vị ngọt bùi, thơm lừng, là món ăn vặt được nhiều người yêu thích.",
+            "NutritionInfo": {
+                "Info": "hành phần dinh dưỡng của một bắp ngô (khoảng 100 gram) có thể thay đổi tùy thuộc vào loại ngô, cách chế biến và cách đo lường. Trung bình, một bắp ngô chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 90 kcal",
+                    "Carbohydrate: 22 g",
+                    "Lipid: 1 g",
+                    "Protein: 3 g",
+                    "Fiber: 4 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B6..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "2-3 bắp ngô tươi. Muối, bơ, tương ớt, phô mai (tùy chọn)",
+                "Time": "30 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế ngô:  Lựa chọn những bắp ngô tươi, mẩy, không bị sâu. Rửa sạch ngô với nước. Dùng dao hoặc kéo cắt bỏ râu ngô.",
+                    "Step 2. Nướng ngô: Nếu nướng ngô trên lửa, bạn có thể sử dụng bếp than, bếp ga hoặc bếp củi. Đặt ngô lên vỉ nướng, nướng đều các mặt cho đến khi ngô chín vàng, thơm. Nếu nướng ngô trong lò nướng, bạn cần làm nóng lò nướng ở nhiệt độ 200 độ C trước. Cho ngô vào khay nướng, nướng trong khoảng 20-30 phút cho đến khi ngô chín vàng, thơm."
+                ]
+            }
+        },
+        {
+            "ID": 38,
+            "Name": "Mực chiên",
+            "Information": "Mực chiên là một món ăn phổ biến ở  Việt Nam. Món ăn này được làm từ những con mực tươi, được cắt thành từng miếng vừa ăn, sau đó được tẩm ướp gia vị và chiên chín vàng. Mực chiên có vị ngọt, dai, giòn, là món ăn được nhiều người yêu thích. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100 g mực chiên có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100 g mực chiên chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 90 kcal",
+                    "Carbohydrate: 22 g",
+                    "Lipid: 1 g",
+                    "Protein: 3 g",
+                    "Fiber: 4 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C,..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g mực ống tươi, 1 củ tỏi, 1 củ hành tím, 1 thìa cà phê hạt nêm, 1/2 thìa cà phê muối, 1/4 thìa cà phê tiêu, 1/4 thìa cà phê bột ngọt ,Dầu ăn",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế mực: Mực mua về rửa sạch, bỏ túi mực và ruột. Dùng dao thái mực thành từng miếng vừa ăn.",
+                    "Step 2. Ướp mực: Tỏi và hành tím bóc vỏ, băm nhỏ. Cho mực vào tô, thêm tỏi, hành tím băm, hạt nêm, muối, tiêu, bột ngọt vào trộn đều. Ướp mực trong khoảng 30 phút cho mực thấm gia vị.",
+                    "Step 3. Chiên mực : Đun nóng dầu ăn trên bếp. Cho mực vào chiên với lửa vừa, chiên đến khi mực chín vàng đều thì vớt ra"
+                ]
+            }
+        },
+        {
+            "ID": 39,
+            "Name": "Nem rán",
+            "Information": "Nem rán là một món ăn phổ biến ở  Việt Nam. Món ăn này được làm từ những nguyên liệu đơn giản, bao gồm thịt lợn xay, miến, trứng gà, nấm hương, mộc nhĩ, hành lá, hành khô,... được gói trong bánh tráng hoặc vỏ hoành thánh, sau đó được chiên vàng giòn. Nem rán có vị ngọt, bùi, giòn, là món ăn được nhiều người yêu thích.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của nem có thể thay đổi tùy thuộc vào cách chế biến và nguyên liệu sử dụng, nhưng trung bình 100 g nem chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 80cal",
+                    "Protein: 15 g",
+                    "Lipid: 1-2 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B6, Vitamin B12, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g thịt lợn xay, 200g miến, 2 quả trứng gà, 100g nấm hương, 100g mộc nhĩ, 100g hành lá, 1 củ hành khô, Gia vị: muối, hạt nêm, tiêu, đường,...",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt lợn xay mua về rửa sạch, ướp với một ít gia vị, tiêu, đường,... trong khoảng 30 phút cho thịt thấm gia vị. Miến ngâm nước ấm cho mềm, cắt khúc ngắn. Nấm hương, mộc nhĩ ngâm nước ấm cho nở mềm, rửa sạch, thái nhỏ. Hành lá, hành khô băm nhỏ.",
+                    "Step 2. Làm nhân nem: Cho thịt lợn xay, miến, nấm hương, mộc nhĩ, hành lá, hành khô vào một tô lớn, trộn đều. Nêm nếm gia vị cho vừa ăn.",
+                    "Step 3. Gói nem: Lấy một miếng bánh tráng hoặc vỏ hoành thánh, cho một ít nhân nem vào giữa, gói lại thành hình trụ.",
+                    "Step 4. Chiên nem: Đun nóng dầu ăn trên bếp. Cho nem vào chiên với lửa vừa, chiên đến khi nem chín vàng đều thì vớt ra."
+                ]
+            }
+        },
+        {
+            "ID": 47,
+            "Name": "Thịt trâu gác bếp",
+            "Information": "Thịt trâu gác bếp là một món ăn đặc sản của người dân tộc Thái Đen và các dân tộc thiểu số khác ở vùng núi Tây Bắc Việt Nam. Món ăn này được làm từ thịt trâu tươi, được ướp với các loại gia vị đặc trưng như mắc khén, hạt dổi, hạt mắc mật,... sau đó được hun khói trên bếp củi trong nhiều giờ đồng hồ. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g thịt trâu gác bếp có thể thay đổi tùy thuộc vào cách chế biến và nguyên liệu sử dụng, nhưng trung bình 100g thịt trâu gác bếp chứa các thành phần dinh dưỡng như sau: ",
+                "Nutrition": [
+                    "Calo: 200 cal",
+                    "Protein: 30 g",
+                    "Lipid: 5 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B6, Vitamin B1, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g thịt trâu thăn, 100g mắc khén, 50g hạt dổi, 50g hạt mắc mật, 100g muối, 50g gừng, 50g tỏi",
+                "Time": "8-10 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt trâu rửa sạch, thái thành từng miếng mỏng, dày khoảng 0,5cm. Mắc khén, hạt dổi, hạt mắc mật giã nhỏ. Gừng, tỏi bóc vỏ, băm nhỏ.",
+                    "Step 2. Ướp thịt: Cho thịt trâu vào tô lớn, thêm mắc khén, hạt dổi, hạt mắc mật, muối, gừng, tỏi vào trộn đều. Ướp thịt trong khoảng 30 phút cho thịt thấm gia vị.",
+                    "Step 3. Hun thịt Bật bếp củi, cho củi vào đốt cho cháy hồng. Xếp thịt trâu lên vỉ nướng, đặt vỉ nướng lên bếp củi. Hun thịt trong khoảng 8-10 tiếng cho thịt khô lại."
+                ]
+            }
+        },
+        {
+            "ID": 46,
+            "Name": "Thịt xiên",
+            "Information": "Thịt xiên là một món ăn phổ biến ở  Việt Nam. Món ăn này được làm từ các loại thịt, thường là thịt lợn, thịt bò, thịt gà, thịt dê,... được xiên vào que tre và nướng trên bếp than hoặc bếp gas. Thịt xiên có thể được ăn kèm với các loại rau sống, nước chấm, hoặc các loại sốt.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g thịt xiên có thể thay đổi tùy thuộc vào loại thịt và cách chế biến, nhưng trung bình 100g thịt xiên chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 200 cal",
+                    "Protein: 25 g",
+                    "Lipid: 10 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g thịt lợn, 100g sả, 100g hành tím, 50g tỏi, 100g gia vị (muối, hạt nêm, tiêu, đường, dầu hào, nước mắm)",
+                "Time": "20 - 30 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt lợn rửa sạch, thái thành từng miếng nhỏ, dày khoảng 1cm. Sả, hành tím, tỏi bóc vỏ, băm nhỏ.",
+                    "Step 2. Xiên thịt: Lấy một miếng thịt, đặt vào đầu que tre, sau đó xiên tiếp các miếng thịt khác vào.",
+                    "Step 3. Nướng thịt: Bật bếp than hoặc bếp gas, cho thịt xiên lên nướng. Nướng thịt trong khoảng 20-30 phút cho thịt chín vàng đều thì vớt ra."
+                ]
+            }
+        },
+        {
+            "ID": 49,
+            "Name": "Vịt quay",
+            "Information": "Vịt quay là một món ăn phổ biến ở nhiều nước trên thế giới, trong đó có Việt Nam. Món ăn này được làm từ thịt vịt, được ướp với các loại gia vị và nướng trên bếp than hoặc lò nướng. Vịt quay có màu vàng sậm, da giòn, thịt ngọt thơm, thường được ăn kèm với các loại rau củ quả, nước chấm, hoặc bánh mì.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g thịt vịt quay có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g thịt vịt quay chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 387,5 cal",
+                    "Protein: 25 g",
+                    "Lipid: 27 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Vịt 1 con(khoảng 1.5 - 2kg), Tỏi 1 củ, Hành tím 1 củ, Dầu hào 4 muỗng canh, Rượu nấu ăn 1/2 muỗng canh, Ngũ vị hương 5 muỗng cà phê, Đường mạch nha 3 muỗng canh, Dấm trắng 1 muỗng canh, Tương xay 1/2 muỗng, Đường 1 muỗng, Bột ngọt 1/3 muỗng, Muối 1/2 muỗng, Bột năng 1/2 thìa cà phê",
+                "Time": "60-90 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Vịt rửa sạch, bỏ ruột, để ráo nước. Sơ chế các loại rau củ quả ăn kèm.",
+                    "Step 2. Ướp vịt: Cho vịt vào tô lớn, thêm các loại gia vị như muối, hạt nêm, tiêu, đường, dầu hào, nước mắm,... vào trộn đều. Ướp vịt trong khoảng 30 phút cho thịt vịt thấm gia vị.",
+                    "Step 3. Nướng vịt: Bật bếp than hoặc lò nướng, cho vịt lên nướng. Nướng vịt trong khoảng 60-90 phút cho vịt chín vàng đều thì vớt ra."
+                ]
+            }
+        },
+        {
+            "ID": 24,
+            "Name": "Canh cua",
+            "Information": "Canh cua là một món ăn phổ biến ở Việt Nam, được làm từ cua đồng, rau đay, mồng tơi, mướp hương,... Canh cua có vị ngọt thanh, mát lành, thường được ăn kèm với cà pháo muối hoặc bánh đa.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 1 tô canh cua (khoảng 250ml) có thể thay đổi tùy thuộc vào lượng cua, rau và gia vị sử dụng, nhưng trung bình 1 tô canh cua chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 100 cal",
+                    "Protein: 15 g",
+                    "Lipid: 5 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "1kg cua đồng. 2 bó rau đay, 1 bó mồng tơi, 1 quả mướp hương, Gia vị: muối, hạt nêm, bột ngọt, tiêu, dầu ăn",
+                "Time": "30 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Cua đồng rửa sạch, tách mai, lấy gạch. Rau đay, mồng tơi, mướp hương nhặt bỏ lá úa, rửa sạch, thái nhỏ.",
+                    "Step 2. Nấu canh: Cho cua vào nồi, đổ nước ngập cua, đun sôi. Khi cua chín, dùng tay bóc lấy thịt cua, bỏ vỏ và yếm cua. Phi thơm hành khô với dầu ăn, cho gạch cua vào xào chín. Cho rau đay, mồng tơi, mướp hương vào nồi nước cua, đun sôi.",
+                    "Step 3. Nêm nếm gia vị cho vừa ăn. Cho thịt cua và gạch cua đã xào vào nồi canh, đun sôi lại rồi tắt bếp."
+                ]
+            }
+        },
+        {
+            "ID": 26,
+            "Name": "Chả mực",
+            "Information": "Chả mực là một món ăn phổ biến ở Việt Nam, được làm từ thịt mực, giã hoặc xay nhuyễn, trộn với gia vị và nặn thành từng miếng tròn. Chả mực có vị ngọt thơm, giòn sần sật, thường được ăn kèm với bún, bánh cuốn, hoặc xôi.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g chả mực có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g chả mực chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 250 cal",
+                    "Protein: 25 g",
+                    "Lipid: 15 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "500g thịt mực, 100g hành khô, 50g thì là, 50g lá lốt, Gia vị: muối, hạt nêm, tiêu, dầu ăn",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt mực rửa sạch, bỏ túi mực, thái nhỏ. Hành khô bóc vỏ, băm nhỏ. Thì là, lá lốt nhặt bỏ lá úa, rửa sạch, thái nhỏ.",
+                    "Step 2. Ướp thịt mực: Cho thịt mực vào tô lớn, thêm hành khô, thì là, lá lốt, gia vị vào trộn đều. Ướp thịt mực trong khoảng 30 phút cho thịt mực thấm gia vị",
+                    "Step 3. Nặn chả mực: Lấy một ít thịt mực, nặn thành từng miếng tròn.",
+                    "Step 4. Chiên chả mực: Đặt chảo lên bếp, cho dầu ăn vào đun nóng. Cho chả mực vào chiên vàng đều hai mặt thì vớt ra."
+                ]
+            }
+        },
+        {
+            "ID": 35,
+            "Name": "Kẹo lạc",
+            "Information": "Kẹo lạc là một loại kẹo truyền thống của Việt Nam, được làm từ lạc rang, đường, mạch nha và một số gia vị khác. Kẹo lạc có vị ngọt, bùi, béo ngậy, thường được ăn kèm với trà nóng. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g kẹo lạc có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g kẹo lạc chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 486 cal",
+                    "Protein: 25 g",
+                    "Lipid: 25 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "400g đậu phộng 125ml nước, 170g đường, 40g gừng, 2 thìa cafe, nước cốt chanh, 100g mạch nha, 110g mè trắng",
+                "Time": "30 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Lạc rang chín, bỏ vỏ. Đường, mạch nha hòa tan với nước.",
+                    "Step 2. Nấu kẹo: Cho hỗn hợp đường, mạch nha vào nồi, đun sôi. Khi hỗn hợp sôi, cho lạc vào đảo đều. Nấu kẹo cho đến khi hỗn hợp sánh lại thì tắt bếp.",
+                    "Step 3. Thêm gia vị: Cho thêm một chút vani hoặc tinh dầu hoa bưởi vào kẹo.",
+                    "Step 4. Đổ kẹo: Đổ kẹo ra khuôn, dàn mỏng. Đợi kẹo nguội thì cắt thành từng miếng nhỏ."
+                ]
+            }
+        },
+        {
+            "ID": 7,
+            "Name": "Bánh đa quạt",
+            "Information": "Bánh đa quạt là một loại bánh đa được làm từ bột gạo, tráng mỏng, phơi khô, sau đó được quạt trên bếp than hồng cho đến khi bánh chín vàng. Bánh đa quạt có màu vàng ruộm, vị thơm ngon, giòn rụm, thường được ăn kèm với các món ăn như bánh đa cua, bánh đa trộn,...",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g bánh đa quạt có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g bánh đa quạt chứa các thành phần dinh dưỡng như sau: ",
+                "Nutrition": [
+                    "Calo: 333 cal",
+                    "Protein: 6 g",
+                    "Lipid: 1 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Bột gạo: 500g, Muối: 1 thìa cà phê, Nước: 500ml",
+                "Time": "10 - 15 phút",
+                "Cooking": [
+                    "Step 1. Trộn bột: Cho bột gạo, muối vào tô lớn, trộn đều. Cho nước vào từ từ, vừa cho vừa trộn đều cho đến khi bột tạo thành khối dẻo.",
+                    "Step 2. Tráng bánh: Chia bột thành từng phần nhỏ, vo tròn. Dùng cán bột cán mỏng từng phần bột. Tráng bánh trên bếp lửa nhỏ, lật bánh đều tay cho đến khi bánh chín vàng.",
+                    "Step 3. Phơi bánh: Phơi bánh trên nong, hoặc nia, dưới ánh nắng mặt trời cho đến khi bánh khô. Bánh khô có thể bảo quản ở nơi khô ráo, thoáng mát.",
+                    "Step 4. Quạt bánh: Đặt bánh lên vỉ nướng, quạt trên bếp than hồng cho đến khi bánh chín vàng. Gấp bánh lại, cắt thành từng miếng vừa ăn."
+                ]
+            }
+        },
+        {
+            "ID": 44,
+            "Name": "Phở cuốn",
+            "Information": "Phở cuốn là một món ăn truyền thống của Việt Nam, được làm từ bánh phở, thịt bò, rau thơm và các loại gia vị. Phở cuốn có vị ngọt, thanh mát, là món ăn nhẹ nhàng, phù hợp cho mọi lứa tuổi. ",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g phở cuốn có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g phở cuốn chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 203 cal",
+                    "Protein: 12 g",
+                    "Lipid: 10 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Bánh phở: Thịt bò, Rau thơm: xà lách, húng quế, giá đỗ, tía tô,...Gia vị: nước mắm, đường, chanh, tỏi, ớt",
+                "Time": "10 - 15 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt bò rửa sạch, thái lát mỏng. Rau thơm nhặt rửa sạch",
+                    "Step 2. Cuốn phở: Đặt một miếng bánh phở lên màng bọc thực phẩm. Xếp thịt bò, rau thơm lên trên bánh phở. Cuộn bánh phở lại, dùng màng bọc thực phẩm quấn chặt lạ",
+                    "Step 3. Pha nước chấm: Cho nước mắm, đường, chanh, tỏi, ớt vào chén, khuấy đều cho tan"
+                ]
+            }
+        },
+        {
+            "ID": 31,
+            "Name": "Giò lụa",
+            "Information": "Giò lụa là một món ăn truyền thống của Việt Nam, được làm từ thịt lợn nạc xay nhuyễn, trộn với nước mắm, tiêu, hạt nêm,... rồi gói trong lá chuối và luộc chín. Giò lụa có vị ngọt, thơm, giòn, là món ăn phổ biến trong các bữa ăn gia đình, tiệc tùng,...",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g giò lụa có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g giò lụa chứa các thành phần dinh dưỡng như sau: ",
+                "Nutrition": [
+                    "Calo: 230 cal",
+                    "Protein: 26 g",
+                    "Lipid: 16 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Thịt lợn nạc: 500g, Lá chuối: 20 lá, Nước mắm: 2 muỗng canh, Tiêu: 1 muỗng cà phê, Hạt nêm: 1 muỗng cà phê",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt lợn nạc rửa sạch, xay nhuyễn. Lá chuối rửa sạch, lau khô",
+                    "Step 2. Trộn thịt: Cho thịt lợn xay vào tô, thêm nước mắm, tiêu, hạt nêm, trộn đều.",
+                    "Step 3. Gói giò: Đặt một miếng lá chuối lên mặt phẳng, cho một lớp thịt vào giữa. Gấp lá chuối lại, gói chặt giò.",
+                    "Step 4 .Luộc giò: Cho giò vào nồi nước, luộc chín trong khoảng 30 phút."
+                ]
+            }
+        },
+        {
+            "ID": 30,
+            "Name": "Gà luộc",
+            "Information": "Gà luộc là một món ăn phổ biến ở Việt Nam, được làm từ thịt gà luộc chín. Gà luộc có vị ngọt, thơm, dai, là món ăn không thể thiếu trong các bữa cơm gia đình, tiệc tùng,...",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 1 con gà có thể thay đổi tùy thuộc vào kích thước, giống gà và cách chế biến, nhưng trung bình 1 con gà nặng 1kg chứa các thành phần dinh dưỡng như sau: ",
+                "Nutrition": [
+                    "Calo: 1200 cal",
+                    "Protein: 250 g",
+                    "Lipid: 100 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Thịt gà: 1 con, Hành khô: 1 củ, Gừng: 1 củ nhỏ, Gia vị: muối, hạt nêm, tiêu, nước mắm, Cách làm gà luộc",
+                "Time": "1 tiếng",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt gà rửa sạch, bóp với chút muối, gừng, rượu trắng để khử mùi hôi. Hành khô, gừng bóc vỏ, băm nhuyễn.",
+                    "Step 2. Luộc gà: Cho thịt gà vào nồi, thêm hành khô, gừng, nước, muối, hạt nêm, tiêu. Đun sôi nước, hạ nhỏ lửa, luộc gà trong khoảng 30-40 phút. Kiểm tra xem gà đã chín chưa bằng cách dùng đũa xiên vào phần đùi gà, nếu nước chảy ra trong là gà đã chín. Vớt gà ra, để nguội, chặt thành từng miếng vừa ăn."
+                ]
+            }
+        },
+        {
+            "ID": 45,
+            "Name": "Thịt kho",
+            "Information": "Thịt kho là một món ăn truyền thống của Việt Nam, được làm từ thịt lợn kho với nước mắm, đường, tiêu,... Thịt kho có vị ngọt, đậm đà, là món ăn phổ biến trong các bữa cơm gia đình, tiệc tùng,...",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g thịt kho có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g thịt kho chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 280 cal",
+                    "Protein: 26 g",
+                    "Lipid: 22 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Thịt lợn: 500g, Nước mắm: 2 muỗng canh, Đường: 2 muỗng canh, Tiêu: 1 muỗng cà phê, Hành khô, tỏi, ớt",
+                "Time": "45 - 60 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt lợn rửa sạch, thái miếng vừa ăn. Hành khô, tỏi bóc vỏ, băm nhuyễn. Ớt rửa sạch, thái lát.",
+                    "Step 2. Kho thịt: Cho thịt lợn vào nồi, thêm hành khô, tỏi, nước mắm, đường, tiêu, ớt. Đun sôi nước, hạ nhỏ lửa, kho thịt trong khoảng 30-40 phút. Kiểm tra xem thịt đã chín chưa bằng cách dùng đũa xiên vào miếng thịt, nếu nước chảy ra trong là thịt đã chín."
+                ]
+            }
+        },
+        {
+            "ID": 48,
+            "Name": "Trứng vịt lộn",
+            "Information": "Trứng vịt lộn là một món ăn truyền thống của Việt Nam, được làm từ quả trứng vịt khi phôi thai đã phát triển thành hình con vịt con. Trứng vịt lộn có vị ngọt, bùi, là món ăn phổ biến trong các bữa ăn sáng,  ăn chơi.",
+            "NutritionInfo": {
+                "Info": "Thành phần dinh dưỡng của 100g thịt kho có thể thay đổi tùy thuộc vào cách chế biến, nhưng trung bình 100g thịt kho chứa các thành phần dinh dưỡng như sau:",
+                "Nutrition": [
+                    "Calo: 286 cal",
+                    "Protein: 25 g",
+                    "Lipid: 20 g",
+                    "Vitamins and minerals: Canxi, Fe, Kali, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2, ..."
+                ]
+            },
+            "CoookingInstructions": {
+                "Ingredient": "Thịt lợn: 500g, Nước mắm: 2 muỗng canh, Đường: 2 muỗng canh. Tiêu: 1 muỗng cà phê, Hành khô, tỏi, ớt",
+                "Time": "15 phút",
+                "Cooking": [
+                    "Step 1. Sơ chế nguyên liệu: Thịt lợn rửa sạch, thái miếng vừa ăn. Hành khô, tỏi bóc vỏ, băm nhuyễn. Ớt rửa sạch, thái lát.",
+                    "Step 2. Kho thịt: Cho thịt lợn vào nồi, thêm hành khô, tỏi, nước mắm, đường, tiêu, ớt. Đun sôi nước, hạ nhỏ lửa, kho thịt trong khoảng 30-40 phút. Kiểm tra xem thịt đã chín chưa bằng cách dùng đũa xiên vào miếng thịt, nếu nước chảy ra trong là thịt đã chín"
+                ]
+            }
+        }
+    ]
+}

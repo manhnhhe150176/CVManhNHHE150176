@@ -1,0 +1,173 @@
+<CameraScreen>:
+    canvas.before:
+        Color:
+            rgba: 0.902, 1, 0.95, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    GridLayout:
+        cols: 1
+        padding: 20
+        spacing: 5
+        
+        Camera:
+            id: camera
+            play: True
+            size_hint_y: 0.4
+        BoxLayout:
+            cols: 3
+            padding: 20
+            size_hint_y: 0.1
+            Button:
+                id: restart_camera
+                text: 'Again'
+                background_color: 0,1,0,1
+                on_press: root.restart() 
+                size_hint_x: 0.2
+                disabled: True
+            Label:
+                text: ' '
+                size_hint_x: 0.6
+            Button:
+                id: capture
+                text: 'Catch it'
+                background_color: 0,1,0,1
+                on_press: root.capture() 
+                size_hint_x: 0.2
+                disabled: False
+        Label:
+            id: name_food
+            size_hint_y: 0.1
+            font_size: 40
+        Label:
+            id: infomation_food
+            size_hint_y: 0.3
+            text_size: 350, None
+            font_size: 20
+        BoxLayout:
+            cols: 2
+            padding: 20
+            size_hint_y: 0.1
+            Label:
+                text: ' '
+                size_hint_x: 0.7
+            Button:
+                id: recognition_food
+                text: 'Nutrition info'
+                background_color: 0,1,0,1
+                on_press: root.next()
+                size_hint_x: 0.3
+                disabled: True
+
+<NutritionInfoScreen>:
+    canvas.before:
+        Color:
+            rgba: 0.902, 1, 0.95, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    GridLayout:
+        cols: 1
+        padding: 20
+        spacing: 5
+        BoxLayout:
+            cols: 2
+            size_hint_y: 0.05
+            Button:
+                text: 'Back'
+                on_press: root.back_to_menu()
+                background_color: 0,1,0,1
+                size_hint_x: 0.2
+            Label:
+                text: '   '
+                size_hint_x: 0.8
+        Image:
+            id: img
+            size_hint_y: 0.2
+        Label:
+            text: 'Nutrition info'
+            size_hint_y: 0.1
+            font_size: 40
+            bold: True
+            color: 0,0,0,1
+
+        Label:
+            id: nutrition_info
+            size_hint_y: 0.25
+            text_size: 350, None
+            font_size: 20
+            color: 0,0,0,1
+        Label:
+            id: nutrition
+            size_hint_y: 0.35
+            text_size: 350, None
+            font_size: 20
+            color: 0,0,0,1
+
+        BoxLayout:
+            cols: 2
+            size_hint_y: 0.05
+            Label:
+                text: '   '
+                size_hint_x: 0.8
+            Button:
+                text: 'Cooking'
+                background_color: 0,1,0,1
+                on_press: root.next_to_cooking()
+                size_hint_x: 0.2
+
+<CookingInstructionsScreen>:
+    canvas.before:
+        Color:
+            rgba: 0.902, 1, 0.95, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    GridLayout:
+        cols: 1
+        padding: 20
+        BoxLayout:
+            cols: 2
+            size_hint_y: 0.05
+            Button:
+                text: 'Back'
+                background_color: 0,1,0,1
+                on_press: root.back_to_nutrition_info()
+                size_hint_x: 0.2
+            Label:
+                text: '   '
+                size_hint_x: 0.8
+
+        ScrollView:
+            scroll_type:['bars', 'content']
+            bar_width: 10
+            Label:
+                id: ingredient_cooking
+                size_hint_y: None
+                height: self.texture_size[1]
+                color: 0,0,0,1
+                text_size: 350, None
+                markup: True
+
+        BoxLayout:
+            cols: 2
+            size_hint_y: 0.05
+            Label:
+                text: '   '
+                size_hint_x: 0.8
+            Button:
+                text: 'Home'
+                background_color: 0,1,0,1
+                on_press: root.back_to_menu()
+                size_hint_x: 0.2
+
+<RootWidget>:
+    CameraScreen:
+        id: camera_screen
+        name: 'camera_screen'
+    NutritionInfoScreen:
+        id: nutrition_info_screen
+        name: 'nutrition_info_screen'
+    CookingInstructionsScreen:
+        id: cooking_instructions_screen
+        name: 'cooking_instructions_screen'
